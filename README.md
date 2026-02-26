@@ -7,8 +7,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 ## Stats
 
 - **Total Groups**: 714
-- **Mapped**: 40
-- **Unmapped**: 674
+- **Mapped**: 51
+- **Unmapped**: 663
 
 ## How to Contribute
 
@@ -27,12 +27,17 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 | Asura | [Asura](https://comick.dev/group/asura) | [https://asuracomic.net](https://asuracomic.net) |
 | Demonic Scans | [Demonic Scans](https://comick.dev/group/demonic-scans) | [https://demonicscans.org](https://demonicscans.org) |
 | DivaScans | [DivaScans](https://comick.dev/group/diva-scanszdrT) | [https://divatoon.com](https://divatoon.com) |
+| Drake Scans | [Drake Scans](https://comick.dev/group/drake-scans) | [https://drakecomic.org](https://drakecomic.org) |
 | Elf Toon | [Elf Toon](https://comick.dev/group/elf-toon) | [https://elftoon.com](https://elftoon.com) |
+| Ezmanga | [Ezmanga](https://comick.dev/group/raider-scans) | [https://ezmanga.org](https://ezmanga.org) |
 | FireScans | [FireScans](https://comick.dev/group/fire-scans) | [https://firescans.xyz](https://firescans.xyz) |
 | Flame Comics | [Flame Comics](https://comick.dev/group/flame-comics) | [https://flamecomics.xyz](https://flamecomics.xyz) |
 | Galaxy Degen Scans | [Galaxy Degen Scans](https://comick.dev/group/galaxy-degen-scans) | [https://gdscans.com](https://gdscans.com) |
+| Genz Toons | [Genz Toons](https://comick.dev/group/genztoons) | [https://genzupdates.com](https://genzupdates.com) |
 | GreedScans | [GreedScans](https://comick.dev/group/greed-scans-_XsL) | [https://greedscans.com](https://greedscans.com) |
+| Hive Scans | [Hive Scans](https://comick.dev/group/hive-scans) | [https://hivetoons.org](https://hivetoons.org) |
 | KappaBeast | [KappaBeast](https://comick.dev/group/gashadokai) | [https://kappabeast.com](https://kappabeast.com) |
+| Kayscans | [Kayscans](https://comick.dev/group/kaynscan) | [https://kaynscan.com](https://kaynscan.com) |
 | KDT SCANS | [KDT SCANS](https://comick.dev/group/kdt-scans) | [https://www.silentquill.net](https://www.silentquill.net) |
 | Kenscans | [Kenscans](https://comick.dev/group/kenscans) | [https://kencomics.com](https://kencomics.com) |
 | KS Group | [KS Group](https://comick.dev/group/ks-group) | [https://ksgroupscans.com/home-site/](https://ksgroupscans.com/home-site/) |
@@ -43,17 +48,23 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 | Magusmanga | [Magusmanga](https://comick.dev/group/magusmangaxqQj) | [https://magustoon.org](https://magustoon.org) |
 | Mangasushi | [Mangasushi](https://comick.dev/group/mangasushi) | [https://mangasushi.org](https://mangasushi.org) |
 | Mist Scan | [Mist Scan](https://comick.dev/group/mist-scan) | [https://mistscans.com](https://mistscans.com) |
+| Necro_Scans | [Necro_Scans](https://comick.dev/group/necro-scansyaOI) | [https://necroscans.com](https://necroscans.com) |
+| nyxscans | [nyxscans](https://comick.dev/group/nyxscans) | [https://nyxscans.com](https://nyxscans.com) |
 | Philia Scans | [Philia Scans](https://comick.dev/group/philia-scans) | [https://philiascans.org](https://philiascans.org) |
 | QiScans | [QiScans](https://comick.dev/group/qiscans) | [https://qiscans.org](https://qiscans.org) |
 | ravenscans | [ravenscans](https://comick.dev/group/ravenscans) | [https://ravenscans.org](https://ravenscans.org) |
+| RESET SCANS | [RESET SCANS](https://comick.dev/group/reset-scans) | [https://reset-scans.org](https://reset-scans.org) |
 | Rithar_scans | [Rithar_scans](https://comick.dev/group/rithar-scans) | [https://ritharscans.com](https://ritharscans.com) |
 | Rizz Fables | [Rizz Fables](https://comick.dev/group/rizz-comics) | [https://rizzfables.com](https://rizzfables.com) |
 | ROKARI COMICS | [ROKARI COMICS](https://comick.dev/group/rokari-comics) | [https://rokaricomics.com](https://rokaricomics.com) |
+| RoliaScan | [RoliaScan](https://comick.dev/group/rolia-scan) | [https://roliascan.com](https://roliascan.com) |
+| Setsu Scans | [Setsu Scans](https://comick.dev/group/social-weebs) | [https://setsuscans.com](https://setsuscans.com) |
 | Spider Scans | [Spider Scans](https://comick.dev/group/spider-scans) | [https://spiderscans.xyz](https://spiderscans.xyz) |
 | StoneScape | [StoneScape](https://comick.dev/group/stone-scape) | [https://stonescape.xyz](https://stonescape.xyz) |
 | Temple Scan | [Temple Scan](https://comick.dev/group/temple-scan) | [https://templetoons.com](https://templetoons.com) |
 | Thunderscans | [Thunderscans](https://comick.dev/group/ozulscans) | [https://en-thunderscans.com](https://en-thunderscans.com) |
 | UTOON | [UTOON](https://comick.dev/group/utoon) | [https://utoon.net](https://utoon.net) |
+| Valir Scans | [Valir Scans](https://comick.dev/group/valir-scans) | [https://valirscans.com](https://valirscans.com) |
 | Violet Scans | [Violet Scans](https://comick.dev/group/shojo-scans) | [https://violetscans.org](https://violetscans.org) |
 | Vortex Scans | [Vortex Scans](https://comick.dev/group/vortex-scans) | [https://vortexscans.org](https://vortexscans.org) |
 | Webtoon | [Webtoon](https://comick.dev/group/line-webtoon) | [https://www.webtoons.com](https://www.webtoons.com) |
@@ -204,7 +215,6 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 | Dog Nigga | [Dog Nigga](https://comick.dev/group/dog-nigga) | — |
 | Domain Sage Mode | [Domain Sage Mode](https://comick.dev/group/domain-sage-mode) | — |
 | Dragon Tea | [Dragon Tea](https://comick.dev/group/dragon-tea) | — |
-| Drake Scans | [Drake Scans](https://comick.dev/group/drake-scans) | — |
 | DRAKON | [DRAKON](https://comick.dev/group/drakon) | — |
 | Drope Scan | [Drope Scan](https://comick.dev/group/drope-scan) | — |
 | duc_94 | [duc_94](https://comick.dev/group/duc-94) | — |
@@ -228,7 +238,6 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 | Eternum Scans | [Eternum Scans](https://comick.dev/group/eternum-scans) | — |
 | ExP Scans | [ExP Scans](https://comick.dev/group/ex-p-scans) | — |
 | ExtraScans | [ExtraScans](https://comick.dev/group/extra-scansuCup) | — |
-| Ezmanga | [Ezmanga](https://comick.dev/group/raider-scans) | — |
 | FableFrame Scanlation | [FableFrame Scanlation](https://comick.dev/group/fable-frame-scanlation) | — |
 | Facepalm Scans | [Facepalm Scans](https://comick.dev/group/facepalm-scans) | — |
 | Fap It Scans | [Fap It Scans](https://comick.dev/group/fap-it-scans) | — |
@@ -254,7 +263,6 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 | Fukashigi | [Fukashigi](https://comick.dev/group/fukashigi) | — |
 | Galactic Rolling Dynamite Pancake | [Galactic Rolling Dynamite Pancake](https://comick.dev/group/galactic-rolling-dynamite-pancake) | — |
 | Gekkou Scans | [Gekkou Scans](https://comick.dev/group/gekkou-scans-jy60kqs2) | — |
-| Genz Toons | [Genz Toons](https://comick.dev/group/genztoons) | — |
 | Gezza TL | [Gezza TL](https://comick.dev/group/gezza-tl) | — |
 | GineY | [GineY](https://comick.dev/group/gine-y) | — |
 | Ginseng Scans | [Ginseng Scans](https://comick.dev/group/ginseng-scans) | — |
@@ -287,7 +295,6 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 | Heroz Scanlations | [Heroz Scanlations](https://comick.dev/group/heroz-scanlations) | — |
 | hidamari | [hidamari](https://comick.dev/group/hidamari) | — |
 | hijala | [hijala](https://comick.dev/group/hijala) | — |
-| Hive Scans | [Hive Scans](https://comick.dev/group/hive-scans) | — |
 | HNI-Scantrad | [HNI-Scantrad](https://comick.dev/group/hni-scantrad) | — |
 | Hokuto no Gun | [Hokuto no Gun](https://comick.dev/group/hokuto-no-gun) | — |
 | Horny Council | [Horny Council](https://comick.dev/group/horny-council) | — |
@@ -334,7 +341,6 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 | KananScans | [KananScans](https://comick.dev/group/kanan-scans) | — |
 | Kanojo Scans | [Kanojo Scans](https://comick.dev/group/kanojo-scans) | — |
 | KAYdoesitsolo | [KAYdoesitsolo](https://comick.dev/group/ka-ydoesitsolo) | — |
-| Kayscans | [Kayscans](https://comick.dev/group/kaynscan) | — |
 | Keiretsu | [Keiretsu](https://comick.dev/group/keiretsu) | — |
 | ken manga | [ken manga](https://comick.dev/group/ken-manga) | — |
 | Keshigomu Scans | [Keshigomu Scans](https://comick.dev/group/keshigomu-scans) | — |
@@ -464,7 +470,6 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 | N Scans | [N Scans](https://comick.dev/group/n-scans) | — |
 | Namensideenlos Scanlations | [Namensideenlos Scanlations](https://comick.dev/group/namensideenlos-scanlations) | — |
 | Nato 012 Fansub | [Nato 012 Fansub](https://comick.dev/group/nato-012-fansub) | — |
-| Necro_Scans | [Necro_Scans](https://comick.dev/group/necro-scansyaOI) | — |
 | NeitheYAGI | [NeitheYAGI](https://comick.dev/group/neithe-yagi) | — |
 | Nemoa | [Nemoa](https://comick.dev/group/nemoa) | — |
 | Neox Scanlator | [Neox Scanlator](https://comick.dev/group/neox-scanlator-jy4tfd0n) | — |
@@ -490,7 +495,6 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 | nyan-skan | [nyan-skan](https://comick.dev/group/nyan-skan) | — |
 | NyanuKafe | [NyanuKafe](https://comick.dev/group/nyanu-kafe) | — |
 | Nyctophilia Scans | [Nyctophilia Scans](https://comick.dev/group/the-phantomhives) | — |
-| nyxscans | [nyxscans](https://comick.dev/group/nyxscans) | — |
 | O TRANSLATIONS | [O TRANSLATIONS](https://comick.dev/group/o-translations) | — |
 | Oayo TL | [Oayo TL](https://comick.dev/group/oayo-tl) | — |
 | obsoletezero | [obsoletezero](https://comick.dev/group/obsoletezero-jx04mllu) | — |
@@ -545,7 +549,6 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 | Reaper_Scans | [Reaper_Scans](https://comick.dev/group/reaper-scans) | — |
 | Rehashed Scans | [Rehashed Scans](https://comick.dev/group/rehashed-scans) | — |
 | Reptile Scans | [Reptile Scans](https://comick.dev/group/reptile-scans) | — |
-| RESET SCANS | [RESET SCANS](https://comick.dev/group/reset-scans) | — |
 | Revelion Scan | [Revelion Scan](https://comick.dev/group/revelion-scan) | — |
 | Reverse us | [Reverse us](https://comick.dev/group/reverse-us) | — |
 | Rezoscans | [Rezoscans](https://comick.dev/group/rezoscans) | — |
@@ -556,7 +559,6 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 | Robokot Scamlations | [Robokot Scamlations](https://comick.dev/group/robokot-scamlations) | — |
 | ROCK-paper-SCISSORS | [ROCK-paper-SCISSORS](https://comick.dev/group/rock-paper-scissors) | — |
 | Rogzca Scans | [Rogzca Scans](https://comick.dev/group/rogzca-scans) | — |
-| RoliaScan | [RoliaScan](https://comick.dev/group/rolia-scan) | — |
 | Rom-Com Haven | [Rom-Com Haven](https://comick.dev/group/rom-com-haven) | — |
 | Romance ID | [Romance ID](https://comick.dev/group/romance-id) | — |
 | ROML Scans | [ROML Scans](https://comick.dev/group/roml-translations) | — |
@@ -583,7 +585,6 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 | Senko-san's Abode | [Senko-san's Abode](https://comick.dev/group/senko-san-s-abode) | — |
 | Sense Scans | [Sense Scans](https://comick.dev/group/sense-scans) | — |
 | Senukin | [Senukin](https://comick.dev/group/senukin) | — |
-| Setsu Scans | [Setsu Scans](https://comick.dev/group/social-weebs) | — |
 | Shadow Madness | [Shadow Madness](https://comick.dev/group/shadow-madness) | — |
 | Shadow_Scans | [Shadow_Scans](https://comick.dev/group/shadow-scans) | — |
 | Shadow-sama Scans | [Shadow-sama Scans](https://comick.dev/group/shadow-sama-scans) | — |
@@ -698,7 +699,6 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 | Uwaki Scans | [Uwaki Scans](https://comick.dev/group/uwaki-scans) | — |
 | Uxtef's Translations | [Uxtef's Translations](https://comick.dev/group/uxtef-s-translations) | — |
 | Vale Scanlation | [Vale Scanlation](https://comick.dev/group/vale-scanlation) | — |
-| Valir Scans | [Valir Scans](https://comick.dev/group/valir-scans) | — |
 | Vanguard | [Vanguard](https://comick.dev/group/vanguard) | — |
 | Vanilla Translations | [Vanilla Translations](https://comick.dev/group/vanilla-translations) | — |
 | Velev Scans | [Velev Scans](https://comick.dev/group/velev-scans) | — |
