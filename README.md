@@ -17,6 +17,10 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 3. Add the group's website URL to the `"url"` field
 4. Submit a pull request
 
+## Userscript
+
+Install the companion userscript to see mapped links directly on comick.dev group pages: [Comick Group Mapping on Greasy Fork](https://greasyfork.org/en/scripts/567563-comick-group-mapping)
+
 ## Mapped Groups
 
 | Group | Comick Page | Website |
