@@ -5,6 +5,11 @@ on:
     branches: [master]
     paths:
       - "groups.json"
+  workflow_run:
+    workflows:
+      - "Fetch Groups from Comick"
+    types:
+      - completed
 
 permissions:
   contents: write
