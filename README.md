@@ -7,8 +7,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 ## Stats
 
 - **Total Groups**: 714
-- **Mapped**: 676
-- **Unmapped**: 38
+- **Mapped**: 682
+- **Unmapped**: 32
 
 ## How to Contribute
 
@@ -377,6 +377,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Mangattack | [Mangattack](https://comick.dev/group/mangattack) | [https://mangattack.com/](https://mangattack.com/) |
 | Mangazuki | [Mangazuki](https://comick.dev/group/mangazuki) | [https://mangazuki.co/](https://mangazuki.co/) |
 | Manhua Plus | [Manhua Plus](https://comick.dev/group/manhua-plus) | [https://manhuaplus.com/](https://manhuaplus.com/) |
+| ManhuaFast | [ManhuaFast](https://comick.dev/group/manhuafast) | [https://manhuafast.net/](https://manhuafast.net/) |
 | Manhuaga | [Manhuaga](https://comick.dev/group/manhuaga) | [https://manhuaga.com/](https://manhuaga.com/) |
 | Manhuagold Scan | [Manhuagold Scan](https://comick.dev/group/manhuagold-scan) | [https://manhuagold.top/home](https://manhuagold.top/home) |
 | Manhuanext | [Manhuanext](https://comick.dev/group/manhuanext-com) | [https://manhuanext.com/](https://manhuanext.com/) |
@@ -468,6 +469,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Phantom Scans | [Phantom Scans](https://comick.dev/group/phantom-scans) | [https://web.archive.org/web/20231015011930/https://phantomscans.com/](https://web.archive.org/web/20231015011930/https://phantomscans.com/) |
 | Phantom troop | [Phantom troop](https://comick.dev/group/phantom-troop) | [https://mangadex.org/user/45860/axel](https://mangadex.org/user/45860/axel) |
 | Philia Scans | [Philia Scans](https://comick.dev/group/philia-scans) | [https://philiascans.org](https://philiascans.org) |
+| Pika doesn’t Scanlate | [Pika doesn’t Scanlate](https://comick.dev/group/pika-doesn-t-scanlate) | [https://mangadex.org/group/68b9d37f-1868-4ac8-9923-37acd462094e/pika-doesn-t-scanlate?tab=info](https://mangadex.org/group/68b9d37f-1868-4ac8-9923-37acd462094e/pika-doesn-t-scanlate?tab=info) |
 | Piranhaplant | [Piranhaplant](https://comick.dev/group/piranhaplant) | [https://piranhaplant1.blogspot.com/](https://piranhaplant1.blogspot.com/) |
 | Platinum Crown | [Platinum Crown](https://comick.dev/group/platinum-crown) | [https://platinumscans.com/](https://platinumscans.com/) |
 | Player1_Please | [Player1_Please](https://comick.dev/group/player1-please) | [https://mangadex.org/group/4898ab5a-01ea-4f8f-96cf-1e28f3bb65ff](https://mangadex.org/group/4898ab5a-01ea-4f8f-96cf-1e28f3bb65ff) |
@@ -517,6 +519,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | RoliaScan | [RoliaScan](https://comick.dev/group/rolia-scan) | [https://roliascan.com](https://roliascan.com) |
 | Rom-Com Haven | [Rom-Com Haven](https://comick.dev/group/rom-com-haven) | [https://mangadex.org/group/d17f1809-bff6-4221-add2-f24c9725c565/rom-com-haven](https://mangadex.org/group/d17f1809-bff6-4221-add2-f24c9725c565/rom-com-haven) |
 | Romance ID | [Romance ID](https://comick.dev/group/romance-id) | [https://shineisone.github.io/RomanceID/](https://shineisone.github.io/RomanceID/) |
+| ROML Scans | [ROML Scans](https://comick.dev/group/roml-translations) | [https://mangadex.org/group/8163152c-b8b3-45cb-9ee9-660a4296f91b/roml-scans](https://mangadex.org/group/8163152c-b8b3-45cb-9ee9-660a4296f91b/roml-scans) |
 | Rosa's Silly Scans | [Rosa's Silly Scans](https://comick.dev/group/rosa-s-silly-scans) | [https://comick.io/group/rosa-s-silly-scans](https://comick.io/group/rosa-s-silly-scans) |
 | Rotoscopic | [Rotoscopic](https://comick.dev/group/rotoscopic) | [https://mangadex.org/group/35ce54b4-5352-456a-ad74-027dd2ec77a3/rotoscopic](https://mangadex.org/group/35ce54b4-5352-456a-ad74-027dd2ec77a3/rotoscopic) |
 | RumiTL | [RumiTL](https://comick.dev/group/rumi-tl) | [https://mangadex.org/group/b60f4bd8-92c4-456a-a9d1-c06004f1110e/rumitl](https://mangadex.org/group/b60f4bd8-92c4-456a-a9d1-c06004f1110e/rumitl) |
@@ -608,6 +611,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Team Misoshiru | [Team Misoshiru](https://comick.dev/group/team-misoshiru) | [https://comick.io/group/team-misoshiru](https://comick.io/group/team-misoshiru) |
 | TeamShadowi | [TeamShadowi](https://comick.dev/group/team-shadowi) | [https://mangadex.org/group/461200d0-8458-4c49-8365-6e76c73f0607/teamshadowi](https://mangadex.org/group/461200d0-8458-4c49-8365-6e76c73f0607/teamshadowi) |
 | Temple Scan | [Temple Scan](https://comick.dev/group/temple-scan) | [https://templetoons.com](https://templetoons.com) |
+| TempleScan | [TempleScan](https://comick.dev/group/templeScan) | [https://templetoons.com/](https://templetoons.com/) |
 | Tenuous Scans | [Tenuous Scans](https://comick.dev/group/tenuous-scans) | [https://mangadex.org/group/02aba4ad-26cb-495c-ad2e-d70dae033cfb/tenuous-scans](https://mangadex.org/group/02aba4ad-26cb-495c-ad2e-d70dae033cfb/tenuous-scans) |
 | Terribly Incompetent Scans | [Terribly Incompetent Scans](https://comick.dev/group/terribly-incompetent-scans) | [https://mangadex.org/group/14454/terribly-incompetent-scans](https://mangadex.org/group/14454/terribly-incompetent-scans) |
 | TeruTeruScans | [TeruTeruScans](https://comick.dev/group/teru-teru-scans) | [https://mangadex.org/group/10363/teruteruscans](https://mangadex.org/group/10363/teruteruscans) |
@@ -626,6 +630,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | TheParacite | [TheParacite](https://comick.dev/group/the-paracite) | [https://mangadex.org/group/7d6d0942-e79e-49c1-9d3f-b6025b1538be/theparacite](https://mangadex.org/group/7d6d0942-e79e-49c1-9d3f-b6025b1538be/theparacite) |
 | ThePervertedScanner | [ThePervertedScanner](https://comick.dev/group/the-perverted-scanner) | [https://mangadex.org/group/17681/thepervertedscanner](https://mangadex.org/group/17681/thepervertedscanner) |
 | theslavegroup | [theslavegroup](https://comick.dev/group/theslavegroup) | [https://mangadex.org/group/b2eb9830-3fa7-4fc1-8af4-4587f8e2e802/theslavegroup](https://mangadex.org/group/b2eb9830-3fa7-4fc1-8af4-4587f8e2e802/theslavegroup) |
+| TheSpinyBackTeam | [TheSpinyBackTeam](https://comick.dev/group/the-spiny-back-team) | [https://mangadex.org/group/444b7276-d3d2-4328-862a-149e22c280a1/thespinybackteam](https://mangadex.org/group/444b7276-d3d2-4328-862a-149e22c280a1/thespinybackteam) |
 | Thunderscans | [Thunderscans](https://comick.dev/group/ozulscans) | [https://en-thunderscans.com](https://en-thunderscans.com) |
 | Timeless scans | [Timeless scans](https://comick.dev/group/timeless-scans) | [https://timeless-scans.com/](https://timeless-scans.com/) |
 | Timelessleaf | [Timelessleaf](https://comick.dev/group/timelessleaf-jxg5f8zh) | [https://timelessleaf.com/](https://timelessleaf.com/) |
@@ -661,6 +666,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Vanilla Translations | [Vanilla Translations](https://comick.dev/group/vanilla-translations) | [https://vanillascans.com/](https://vanillascans.com/) |
 | Velev Scans | [Velev Scans](https://comick.dev/group/velev-scans) | [https://mangadex.org/group/3ae224f1-14fe-463f-83ab-de71143b23d8/velev-scans](https://mangadex.org/group/3ae224f1-14fe-463f-83ab-de71143b23d8/velev-scans) |
 | Violet Scans | [Violet Scans](https://comick.dev/group/shojo-scans) | [https://violetscans.org](https://violetscans.org) |
+| VioletScans | [VioletScans](https://comick.dev/group/violet-scans) | [https://violetscans.org/](https://violetscans.org/) |
 | Virgin's Ear | [Virgin's Ear](https://comick.dev/group/virgin-s-ear) | [https://mangadex.org/group/13848/virgin-s-ear](https://mangadex.org/group/13848/virgin-s-ear) |
 | Viz Media | [Viz Media](https://comick.dev/group/viz-mediawtGo) | [https://www.viz.com](https://www.viz.com) |
 | Volkan Scans | [Volkan Scans](https://comick.dev/group/volkan-scans) | [http://volkanscans.com/](http://volkanscans.com/) |
@@ -726,7 +732,6 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Lezhin (Ex-Licenses) | [Lezhin (Ex-Licenses)](https://comick.dev/group/lezhin-ex-licenses) | — |
 | Little Miss & Good Sir Scanlations | [Little Miss & Good Sir Scanlations](https://comick.dev/group/little-miss-and-good-sir-scanlations) | — |
 | mali & fish | [mali & fish](https://comick.dev/group/mali-and-fish) | — |
-| ManhuaFast | [ManhuaFast](https://comick.dev/group/manhuafast) | — |
 | NeitheYAGI | [NeitheYAGI](https://comick.dev/group/neithe-yagi) | — |
 | NewManhua | [NewManhua](https://comick.dev/group/newmanhua) | — |
 | nhimzy | [nhimzy](https://comick.dev/group/nhimzy) | — |
@@ -734,13 +739,8 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | no group | [no group](https://comick.dev/group/no-group) | — |
 | Official | [Official](https://comick.dev/group/official) | — |
 | OP Scans | [OP Scans](https://comick.dev/group/opscans) | — |
-| Pika doesn’t Scanlate | [Pika doesn’t Scanlate](https://comick.dev/group/pika-doesn-t-scanlate) | — |
-| ROML Scans | [ROML Scans](https://comick.dev/group/roml-translations) | — |
-| TempleScan | [TempleScan](https://comick.dev/group/templeScan) | — |
-| TheSpinyBackTeam | [TheSpinyBackTeam](https://comick.dev/group/the-spiny-back-team) | — |
 | trashscanlations | [trashscanlations](https://comick.dev/group/trashscanlations-jxfxgorq) | — |
 | Unknown | [Unknown](https://comick.dev/group/unknown) | — |
-| VioletScans | [VioletScans](https://comick.dev/group/violet-scans) | — |
 | WEBTOON (Ex-Licenses) | [WEBTOON (Ex-Licenses)](https://comick.dev/group/line-webtoon-ex-licenses) | — |
 | WeScan | [WeScan](https://comick.dev/group/we-scan) | — |
 | White Crow Scans | [White Crow Scans](https://comick.dev/group/white-crow-scans) | — |
