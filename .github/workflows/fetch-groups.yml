@@ -21,66 +21,10 @@ jobs:
           node-version: "20"
 
       - name: Fetch and merge groups
-        run: |
-          node -e "
-          const https = require('https');
-          const fs = require('fs');
+        run: node scripts/fetch-comick-groups.js
 
-          const URLS = [
-            'https://comick.dev/group/popular',
-            'https://comick.dev/group/popular/2026',
-            'https://comick.dev/group/popular/2025',
-            'https://comick.dev/group/popular/2024',
-            'https://comick.dev/group/popular/2023',
-            'https://comick.dev/group/popular/2022',
-            'https://comick.dev/group/popular/2021',
-            'https://comick.dev/group/popular/2020',
-          ];
-
-          function fetchPage(url) {
-            return new Promise((resolve, reject) => {
-              https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
-                let html = '';
-                res.on('data', (chunk) => html += chunk);
-                res.on('end', () => {
-                  const match = html.match(/<script id=\\\"__NEXT_DATA__\\\" type=\\\"application\\/json\\\">(\\{.*?\\})<\\/script>/);
-                  if (!match) { console.error('No data on ' + url); resolve([]); return; }
-                  const data = JSON.parse(match[1]);
-                  const groups = data.props.pageProps.groups.map(g => ({ title: g.title.trim(), slug: g.slug }));
-                  console.log(url + ': ' + groups.length + ' groups');
-                  resolve(groups);
-                });
-              }).on('error', (err) => { console.error('Failed: ' + url + ' ' + err.message); resolve([]); });
-            });
-          }
-
-          async function main() {
-            let existing = [];
-            try { existing = JSON.parse(fs.readFileSync('groups.json', 'utf8')); } catch (e) {}
-
-            const existingMap = new Map();
-            for (const g of existing) { existingMap.set(g.slug, g); }
-
-            for (const url of URLS) {
-              const groups = await fetchPage(url);
-              for (const g of groups) {
-                if (existingMap.has(g.slug)) {
-                  existingMap.get(g.slug).title = g.title;
-                } else {
-                  existingMap.set(g.slug, { title: g.title, slug: g.slug, url: '' });
-                }
-              }
-            }
-
-            const merged = Array.from(existingMap.values())
-              .sort((a, b) => a.title.localeCompare(b.title));
-
-            fs.writeFileSync('groups.json', JSON.stringify(merged, null, 2) + '\n');
-            console.log('Total: ' + merged.length + ' groups');
-          }
-
-          main();
-          "
+      - name: Enrich missing URLs
+        run: node scripts/enrich-group-urls.js
 
       - name: Commit changes
         run: |
