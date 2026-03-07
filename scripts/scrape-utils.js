@@ -31,6 +31,10 @@ function buildUnmappedIndex(groups) {
   return unmapped;
 }
 
+function listUnmappedGroups(groups) {
+  return groups.filter((group) => !group.url).map((group) => group.title);
+}
+
 function recordMatch({ groups, unmapped, matches, title, url }) {
   const key = normalizeName(title);
   const groupIndex = unmapped.get(key);
@@ -49,6 +53,7 @@ module.exports = {
   GROUPS_PATH,
   buildUnmappedIndex,
   loadGroups,
+  listUnmappedGroups,
   normalizeName,
   recordMatch,
   saveGroups,

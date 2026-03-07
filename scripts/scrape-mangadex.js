@@ -1,7 +1,9 @@
 const https = require("https");
 const {
   buildUnmappedIndex,
+  listUnmappedGroups,
   loadGroups,
+  normalizeName,
   recordMatch,
   saveGroups,
   sleep,
@@ -9,15 +11,13 @@ const {
 
 const DELAY_MS = 300;
 const LIMIT = 100;
-const MAX_OFFSET = 10000; // MangaDex Elasticsearch cap
 const REQUEST_TIMEOUT_MS = 10000;
 
-function fetchGroups(offset, name) {
+function fetchGroupsByName(name) {
   return new Promise((resolve, reject) => {
-    let url = `https://api.mangadex.org/group?limit=${LIMIT}&offset=${offset}&order[name]=asc`;
-    if (name) {
-      url += `&name=${encodeURIComponent(name)}`;
-    }
+    const url =
+      `https://api.mangadex.org/group?limit=${LIMIT}&order[name]=asc` +
+      `&name=${encodeURIComponent(name)}`;
 
     const request = https.get(
       url,
@@ -53,24 +53,18 @@ function fetchGroups(offset, name) {
   });
 }
 
-// Search by each letter prefix to work around the 10k offset cap
-const PREFIXES = "abcdefghijklmnopqrstuvwxyz".split("");
+async function enrichGroup(title, unmapped, groups, matches) {
+  const normalizedTitle = normalizeName(title);
 
-async function fetchAllForPrefix(prefix, unmapped, groups, matches) {
-  let offset = 0;
-  let total = Infinity;
-  let processed = 0;
-  let matched = 0;
-
-  while (offset < total && offset < MAX_OFFSET) {
-    process.stdout.write(`  [${prefix}] offset ${offset}...`);
+  while (true) {
+    process.stdout.write(`  Searching MangaDex for "${title}"...`);
 
     let response;
     try {
-      response = await fetchGroups(offset, prefix);
-    } catch (err) {
-      console.log(` ERROR: ${err.message}`);
-      break;
+      response = await fetchGroupsByName(title);
+    } catch (error) {
+      console.log(` ERROR: ${error.message}`);
+      return { processed: 0, matched: 0 };
     }
 
     if (response.result !== "ok") {
@@ -79,40 +73,44 @@ async function fetchAllForPrefix(prefix, unmapped, groups, matches) {
         await sleep(5000);
         continue;
       }
+
       console.log(` API error: ${response.errors?.[0]?.detail || "unknown"}`);
-      break;
+      return { processed: 0, matched: 0 };
     }
 
-    total = response.total;
     const results = response.data || [];
-    console.log(
-      ` ${results.length} groups (${Math.min(offset + results.length, total)}/${total})`,
-    );
+    console.log(` ${results.length} candidates`);
 
-    if (results.length === 0) break;
-
+    let processed = 0;
     for (const group of results) {
       const name = group.attributes?.name;
-      const website = group.attributes?.website;
-      if (!name) continue;
-      processed++;
+      if (!name || normalizeName(name) !== normalizedTitle) {
+        continue;
+      }
 
-      if (recordMatch({ groups, unmapped, matches, title: name, url: website })) {
-        matched++;
+      processed++;
+      if (
+        recordMatch({
+          groups,
+          unmapped,
+          matches,
+          title: name,
+          url: group.attributes?.website,
+        })
+      ) {
+        return { processed, matched: 1 };
       }
     }
 
-    offset += results.length;
-    await sleep(DELAY_MS);
+    return { processed, matched: 0 };
   }
-
-  return { processed, matched };
 }
 
 async function main() {
   console.log("Loading groups.json...");
   const groups = loadGroups();
   const unmapped = buildUnmappedIndex(groups);
+  const missingTitles = listUnmappedGroups(groups);
 
   console.log(`${unmapped.size} unmapped groups to match against MangaDex\n`);
 
@@ -120,25 +118,24 @@ async function main() {
   let grandMatched = 0;
   const matches = [];
 
-  for (const prefix of PREFIXES) {
+  for (const title of missingTitles) {
     if (unmapped.size === 0) {
       console.log("All groups matched!");
       break;
     }
 
-    console.log(`\nSearching "${prefix}" (${unmapped.size} remaining)`);
-    const { processed, matched } = await fetchAllForPrefix(
-      prefix,
-      unmapped,
-      groups,
-      matches,
-    );
+    if (!unmapped.has(normalizeName(title))) {
+      continue;
+    }
+
+    const { processed, matched } = await enrichGroup(title, unmapped, groups, matches);
     grandTotal += processed;
     grandMatched += matched;
+    await sleep(DELAY_MS);
   }
 
   console.log(`\n${"=".repeat(50)}`);
-  console.log(`Processed ${grandTotal} MangaDex groups`);
+  console.log(`Processed ${grandTotal} exact-name MangaDex candidates`);
   console.log(`Matched ${grandMatched} groups:\n`);
   for (const m of matches) {
     console.log(`  ${m.title} -> ${m.url}`);

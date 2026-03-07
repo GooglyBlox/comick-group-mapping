@@ -1,7 +1,9 @@
 const https = require("https");
 const {
   buildUnmappedIndex,
+  listUnmappedGroups,
   loadGroups,
+  normalizeName,
   recordMatch,
   saveGroups,
   sleep,
@@ -11,12 +13,9 @@ const DELAY_MS = 1000;
 const PER_PAGE = 100;
 const REQUEST_TIMEOUT_MS = 10000;
 
-function apiSearch(page, search) {
+function apiSearch(search) {
   return new Promise((resolve, reject) => {
-    const payload = { page, perpage: PER_PAGE };
-    if (search) {
-      payload.search = search;
-    }
+    const payload = { page: 1, perpage: PER_PAGE, search };
 
     const body = JSON.stringify(payload);
     const requestOptions = {
@@ -62,67 +61,51 @@ function apiSearch(page, search) {
   });
 }
 
-// Search prefixes to work around the 10,000 results cap per query
-const PREFIXES = [
-  "", // catches symbols/numbers that don't match any letter
-  ..."abcdefghijklmnopqrstuvwxyz".split(""),
-];
-
-async function fetchAllForPrefix(prefix, unmapped, groups, matches) {
-  let page = 1;
-  let totalProcessed = 0;
-  let matched = 0;
-
+async function enrichGroup(title, unmapped, groups, matches) {
+  const normalizedTitle = normalizeName(title);
   while (true) {
-    const label = prefix
-      ? `"${prefix}" page ${page}`
-      : `(no prefix) page ${page}`;
-    process.stdout.write(`  Fetching ${label}...`);
+    process.stdout.write(`  Searching MangaUpdates for "${title}"...`);
 
     let response;
     try {
-      response = await apiSearch(page, prefix || undefined);
-    } catch (err) {
-      console.log(` ERROR: ${err.message}`);
-      break;
+      response = await apiSearch(title);
+    } catch (error) {
+      console.log(` ERROR: ${error.message}`);
+      return { processed: 0, matched: 0 };
     }
 
     const results = response.results || [];
-    console.log(` ${results.length} results (total: ${response.total_hits})`);
+    console.log(` ${results.length} candidates`);
 
-    if (results.length === 0) break;
-
+    let processed = 0;
     for (const { record } of results) {
-      if (!record) continue;
-      totalProcessed++;
+      if (!record?.name || normalizeName(record.name) !== normalizedTitle) {
+        continue;
+      }
 
-      const siteUrl = record.social?.site;
+      processed++;
       if (
         recordMatch({
           groups,
           unmapped,
           matches,
           title: record.name,
-          url: siteUrl,
+          url: record.social?.site,
         })
       ) {
-        matched++;
+        return { processed, matched: 1 };
       }
     }
 
-    if (totalProcessed >= response.total_hits) break;
-
-    page++;
-    await sleep(DELAY_MS);
+    return { processed, matched: 0 };
   }
-
-  return { totalProcessed, matched };
 }
 
 async function main() {
   console.log("Loading groups.json...");
   const groups = loadGroups();
   const unmapped = buildUnmappedIndex(groups);
+  const missingTitles = listUnmappedGroups(groups);
 
   console.log(`${unmapped.size} unmapped groups to look for on MangaUpdates\n`);
 
@@ -130,27 +113,24 @@ async function main() {
   let grandMatched = 0;
   const matches = [];
 
-  for (const prefix of PREFIXES) {
+  for (const title of missingTitles) {
     if (unmapped.size === 0) {
       console.log("All groups matched, stopping early!");
       break;
     }
 
-    console.log(
-      `\nSearching prefix: ${prefix || "(all)"} (${unmapped.size} remaining)`,
-    );
-    const { totalProcessed, matched } = await fetchAllForPrefix(
-      prefix,
-      unmapped,
-      groups,
-      matches,
-    );
-    grandTotal += totalProcessed;
+    if (!unmapped.has(normalizeName(title))) {
+      continue;
+    }
+
+    const { processed, matched } = await enrichGroup(title, unmapped, groups, matches);
+    grandTotal += processed;
     grandMatched += matched;
+    await sleep(DELAY_MS);
   }
 
   console.log(`\n${"=".repeat(50)}`);
-  console.log(`Processed ${grandTotal} total MangaUpdates results`);
+  console.log(`Processed ${grandTotal} exact-name MangaUpdates candidates`);
   console.log(`Matched ${grandMatched} groups:\n`);
   for (const m of matches) {
     console.log(`  ${m.title} -> ${m.url}`);
