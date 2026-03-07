@@ -930,6 +930,11 @@
     "url": "https://flamecomics.com/"
   },
   {
+    "title": "FlameSubsScans",
+    "slug": "flame-subs-scans",
+    "url": ""
+  },
+  {
     "title": "Flesvelka Scans",
     "slug": "flesvelka-scans",
     "url": "https://mangadex.org/group/7ac99ac5-62e5-47a4-9d68-8773cd88ab93/flesvelka-scans"
@@ -1380,6 +1385,11 @@
     "url": "https://mangadex.org/group/a34e60bd-316a-4909-aa36-84027ce492a5/kakeru-scans"
   },
   {
+    "title": "Kamen",
+    "slug": "kamen",
+    "url": ""
+  },
+  {
     "title": "KananScans",
     "slug": "kanan-scans",
     "url": "https://mangadex.org/group/17980a83-d00d-4f83-a2fd-d1a42a2dd807/kananscans"
@@ -1393,6 +1403,11 @@
     "title": "KappaBeast",
     "slug": "gashadokai",
     "url": "https://kappabeast.com"
+  },
+  {
+    "title": "KATCR",
+    "slug": "katcr",
+    "url": ""
   },
   {
     "title": "KAYdoesitsolo",
@@ -2413,6 +2428,11 @@
     "title": "PSY Kongroo Translations",
     "slug": "psy-kongroo-translations",
     "url": "https://mangadex.org/group/39c2d418-6ad8-45f2-bcb8-01323cf2866e/psy-kongroo-translations"
+  },
+  {
+    "title": "Pura Vida! Translations",
+    "slug": "pura-vida-translations",
+    "url": ""
   },
   {
     "title": "Pusu Pusu Scans",
@@ -3498,6 +3518,11 @@
     "title": "Xianxia Tales",
     "slug": "xianxia-tales",
     "url": "https://xianxiatales.wordpress.com/"
+  },
+  {
+    "title": "Xo manga",
+    "slug": "xo-manga",
+    "url": ""
   },
   {
     "title": "XuN",
