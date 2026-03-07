@@ -6,9 +6,9 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 714
+- **Total Groups**: 719
 - **Mapped**: 682
-- **Unmapped**: 32
+- **Unmapped**: 37
 
 ## How to Contribute
 
@@ -723,10 +723,13 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Colored Manga | [Colored Manga](https://comick.dev/group/colored-manga) | — |
 | Crystal Blitz | [Crystal Blitz](https://comick.dev/group/crystal-blitz) | — |
 | CulR | [CulR](https://comick.dev/group/cul-r) | — |
+| FlameSubsScans | [FlameSubsScans](https://comick.dev/group/flame-subs-scans) | — |
 | Golden Pineapple Scanlation | [Golden Pineapple Scanlation](https://comick.dev/group/pineapple-zpeno-s-scanlation) | — |
 | Gonek | [Gonek](https://comick.dev/group/gonek) | — |
 | Heavenly Demon Scans | [Heavenly Demon Scans](https://comick.dev/group/heavenly-demon-scans) | — |
 | kaiscans | [kaiscans](https://comick.dev/group/kaiscans) | — |
+| Kamen | [Kamen](https://comick.dev/group/kamen) | — |
+| KATCR | [KATCR](https://comick.dev/group/katcr) | — |
 | Kings & Queens | [Kings & Queens](https://comick.dev/group/kings-and-queens) | — |
 | Lacuna Scans | [Lacuna Scans](https://comick.dev/group/lacuna-scans) | — |
 | Lezhin (Ex-Licenses) | [Lezhin (Ex-Licenses)](https://comick.dev/group/lezhin-ex-licenses) | — |
@@ -739,8 +742,10 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | no group | [no group](https://comick.dev/group/no-group) | — |
 | Official | [Official](https://comick.dev/group/official) | — |
 | OP Scans | [OP Scans](https://comick.dev/group/opscans) | — |
+| Pura Vida! Translations | [Pura Vida! Translations](https://comick.dev/group/pura-vida-translations) | — |
 | trashscanlations | [trashscanlations](https://comick.dev/group/trashscanlations-jxfxgorq) | — |
 | Unknown | [Unknown](https://comick.dev/group/unknown) | — |
 | WEBTOON (Ex-Licenses) | [WEBTOON (Ex-Licenses)](https://comick.dev/group/line-webtoon-ex-licenses) | — |
 | WeScan | [WeScan](https://comick.dev/group/we-scan) | — |
 | White Crow Scans | [White Crow Scans](https://comick.dev/group/white-crow-scans) | — |
+| Xo manga | [Xo manga](https://comick.dev/group/xo-manga) | — |
