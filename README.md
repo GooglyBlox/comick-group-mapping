@@ -7,8 +7,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 ## Stats
 
 - **Total Groups**: 719
-- **Mapped**: 682
-- **Unmapped**: 37
+- **Mapped**: 687
+- **Unmapped**: 32
 
 ## How to Contribute
 
@@ -200,6 +200,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Flaemes TL | [Flaemes TL](https://comick.dev/group/flaemes-tl) | [https://comick.io/group/flaemes-tl](https://comick.io/group/flaemes-tl) |
 | Flame Comics | [Flame Comics](https://comick.dev/group/flame-comics) | [https://flamecomics.xyz](https://flamecomics.xyz) |
 | Flame Scans | [Flame Scans](https://comick.dev/group/flame-scans-kft5oueu) | [https://flamecomics.com/](https://flamecomics.com/) |
+| FlameSubsScans | [FlameSubsScans](https://comick.dev/group/flame-subs-scans) | [https://flamesubs.home.blog/](https://flamesubs.home.blog/) |
 | Flesvelka Scans | [Flesvelka Scans](https://comick.dev/group/flesvelka-scans) | [https://mangadex.org/group/7ac99ac5-62e5-47a4-9d68-8773cd88ab93/flesvelka-scans](https://mangadex.org/group/7ac99ac5-62e5-47a4-9d68-8773cd88ab93/flesvelka-scans) |
 | Flex Tape Scanlation | [Flex Tape Scanlation](https://comick.dev/group/flex-tape-scanlation-k06pof6i) | [https://flextapescans.com/](https://flextapescans.com/) |
 | FlipTranslations | [FlipTranslations](https://comick.dev/group/flip-translations) | [https://mangadex.org/group/16216/fliptranslations](https://mangadex.org/group/16216/fliptranslations) |
@@ -286,9 +287,11 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Juujika Subreddit Scans | [Juujika Subreddit Scans](https://comick.dev/group/juujika-subreddit-scans) | [https://jnrscans.com/](https://jnrscans.com/) |
 | K-Manga | [K-Manga](https://comick.dev/group/k-manga4VKP) | [http://www.kmts.tk](http://www.kmts.tk) |
 | Kakeru Scans | [Kakeru Scans](https://comick.dev/group/kakeru-scans) | [https://mangadex.org/group/a34e60bd-316a-4909-aa36-84027ce492a5/kakeru-scans](https://mangadex.org/group/a34e60bd-316a-4909-aa36-84027ce492a5/kakeru-scans) |
+| Kamen | [Kamen](https://comick.dev/group/kamen) | [https://mangadex.org/group/1ffac34a-ace3-43ea-a141-f622e65b26e8/kamen](https://mangadex.org/group/1ffac34a-ace3-43ea-a141-f622e65b26e8/kamen) |
 | KananScans | [KananScans](https://comick.dev/group/kanan-scans) | [https://mangadex.org/group/17980a83-d00d-4f83-a2fd-d1a42a2dd807/kananscans](https://mangadex.org/group/17980a83-d00d-4f83-a2fd-d1a42a2dd807/kananscans) |
 | Kanojo Scans | [Kanojo Scans](https://comick.dev/group/kanojo-scans) | [https://mangadex.org/group/204f0ee1-6b9b-4fb3-b95a-fe113dca811a/kanojo-scans](https://mangadex.org/group/204f0ee1-6b9b-4fb3-b95a-fe113dca811a/kanojo-scans) |
 | KappaBeast | [KappaBeast](https://comick.dev/group/gashadokai) | [https://kappabeast.com](https://kappabeast.com) |
+| KATCR | [KATCR](https://comick.dev/group/katcr) | [https://mangadex.org/group/2c055fc4-b375-4d80-9629-2f9521dfdf6f/katcr](https://mangadex.org/group/2c055fc4-b375-4d80-9629-2f9521dfdf6f/katcr) |
 | KAYdoesitsolo | [KAYdoesitsolo](https://comick.dev/group/ka-ydoesitsolo) | [https://mangadex.org/group/af8a39fb-c910-4b98-9945-28b995724983/kaydoesitsolo](https://mangadex.org/group/af8a39fb-c910-4b98-9945-28b995724983/kaydoesitsolo) |
 | Kayscans | [Kayscans](https://comick.dev/group/kaynscan) | [https://kaynscan.com](https://kaynscan.com) |
 | KDT SCANS | [KDT SCANS](https://comick.dev/group/kdt-scans) | [https://www.silentquill.net](https://www.silentquill.net) |
@@ -481,6 +484,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Project Vinland | [Project Vinland](https://comick.dev/group/project-vinland) | [https://www.projectvinland.com/](https://www.projectvinland.com/) |
 | ProjectLuna | [ProjectLuna](https://comick.dev/group/project-luna) | [https://mangadex.org/group/dd7c802e-59f9-4087-a8fe-17a9c344a4a9/projectluna](https://mangadex.org/group/dd7c802e-59f9-4087-a8fe-17a9c344a4a9/projectluna) |
 | PSY Kongroo Translations | [PSY Kongroo Translations](https://comick.dev/group/psy-kongroo-translations) | [https://mangadex.org/group/39c2d418-6ad8-45f2-bcb8-01323cf2866e/psy-kongroo-translations](https://mangadex.org/group/39c2d418-6ad8-45f2-bcb8-01323cf2866e/psy-kongroo-translations) |
+| Pura Vida! Translations | [Pura Vida! Translations](https://comick.dev/group/pura-vida-translations) | [https://mangadex.org/group/6cd05ee5-96b8-4b40-9c8e-51f0907dfdbb/pura-vida-translations](https://mangadex.org/group/6cd05ee5-96b8-4b40-9c8e-51f0907dfdbb/pura-vida-translations) |
 | Pusu Pusu Scans | [Pusu Pusu Scans](https://comick.dev/group/pusu-pusu-scans) | [https://pusupususcans.wordpress.com/](https://pusupususcans.wordpress.com/) |
 | QiScans | [QiScans](https://comick.dev/group/qiscans) | [https://qiscans.org](https://qiscans.org) |
 | QUANTUM | [QUANTUM](https://comick.dev/group/quantum) | [https://quantumtoon.com/](https://quantumtoon.com/) |
@@ -693,6 +697,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Writers Scans | [Writers Scans](https://comick.dev/group/writers-scans) | [https://writerscans.com](https://writerscans.com) |
 | Xereste | [Xereste](https://comick.dev/group/xereste) | [https://mangadex.org/group/4926/xereste](https://mangadex.org/group/4926/xereste) |
 | Xianxia Tales | [Xianxia Tales](https://comick.dev/group/xianxia-tales) | [https://xianxiatales.wordpress.com/](https://xianxiatales.wordpress.com/) |
+| Xo manga | [Xo manga](https://comick.dev/group/xo-manga) | [https://xomanga.blogspot.com/](https://xomanga.blogspot.com/) |
 | XuN | [XuN](https://comick.dev/group/xu-n-jxfoc2ko) | [https://mangadex.org/group/4896/xun](https://mangadex.org/group/4896/xun) |
 | yakshacomics | [yakshacomics](https://comick.dev/group/yakshacomics) | [https://yakshacomics.com](https://yakshacomics.com) |
 | Yakshascans | [Yakshascans](https://comick.dev/group/yakshascans) | [https://yakshascans.com](https://yakshascans.com) |
@@ -723,13 +728,10 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Colored Manga | [Colored Manga](https://comick.dev/group/colored-manga) | — |
 | Crystal Blitz | [Crystal Blitz](https://comick.dev/group/crystal-blitz) | — |
 | CulR | [CulR](https://comick.dev/group/cul-r) | — |
-| FlameSubsScans | [FlameSubsScans](https://comick.dev/group/flame-subs-scans) | — |
 | Golden Pineapple Scanlation | [Golden Pineapple Scanlation](https://comick.dev/group/pineapple-zpeno-s-scanlation) | — |
 | Gonek | [Gonek](https://comick.dev/group/gonek) | — |
 | Heavenly Demon Scans | [Heavenly Demon Scans](https://comick.dev/group/heavenly-demon-scans) | — |
 | kaiscans | [kaiscans](https://comick.dev/group/kaiscans) | — |
-| Kamen | [Kamen](https://comick.dev/group/kamen) | — |
-| KATCR | [KATCR](https://comick.dev/group/katcr) | — |
 | Kings & Queens | [Kings & Queens](https://comick.dev/group/kings-and-queens) | — |
 | Lacuna Scans | [Lacuna Scans](https://comick.dev/group/lacuna-scans) | — |
 | Lezhin (Ex-Licenses) | [Lezhin (Ex-Licenses)](https://comick.dev/group/lezhin-ex-licenses) | — |
@@ -742,10 +744,8 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | no group | [no group](https://comick.dev/group/no-group) | — |
 | Official | [Official](https://comick.dev/group/official) | — |
 | OP Scans | [OP Scans](https://comick.dev/group/opscans) | — |
-| Pura Vida! Translations | [Pura Vida! Translations](https://comick.dev/group/pura-vida-translations) | — |
 | trashscanlations | [trashscanlations](https://comick.dev/group/trashscanlations-jxfxgorq) | — |
 | Unknown | [Unknown](https://comick.dev/group/unknown) | — |
 | WEBTOON (Ex-Licenses) | [WEBTOON (Ex-Licenses)](https://comick.dev/group/line-webtoon-ex-licenses) | — |
 | WeScan | [WeScan](https://comick.dev/group/we-scan) | — |
 | White Crow Scans | [White Crow Scans](https://comick.dev/group/white-crow-scans) | — |
-| Xo manga | [Xo manga](https://comick.dev/group/xo-manga) | — |
