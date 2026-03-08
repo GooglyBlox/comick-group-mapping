@@ -6,8 +6,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 719
-- **Mapped**: 687
+- **Total Groups**: 723
+- **Mapped**: 691
 - **Unmapped**: 32
 
 ## How to Contribute
@@ -119,6 +119,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Chiqui's Bizarre TL Adventure | [Chiqui's Bizarre TL Adventure](https://comick.dev/group/chiquis-bizarre-tl-adventure) | [https://mangadex.org/group/cff036e8-be05-4f28-a32d-87486898e2ee/chiqui-s-bizarre-tl-adventure](https://mangadex.org/group/cff036e8-be05-4f28-a32d-87486898e2ee/chiqui-s-bizarre-tl-adventure) |
 | Church of Potteto | [Church of Potteto](https://comick.dev/group/church-of-potteto) | [https://mangadex.org/group/457ff7be-62ab-4552-83d8-ee3f3e1c02c1/church-of-potteto](https://mangadex.org/group/457ff7be-62ab-4552-83d8-ee3f3e1c02c1/church-of-potteto) |
 | Circle | [Circle](https://comick.dev/group/ultralight-scans) | [https://mangadex.org/group/916a8c9a-c743-426f-8660-6bc7c0590b35/circle](https://mangadex.org/group/916a8c9a-c743-426f-8660-6bc7c0590b35/circle) |
+| CollectorDB | [CollectorDB](https://comick.dev/group/collector-db) | [https://mangadex.org/group/938c2af2-6e33-487a-a665-353f5f71502a/collectordb](https://mangadex.org/group/938c2af2-6e33-487a-a665-353f5f71502a/collectordb) |
 | ColorNoobs | [ColorNoobs](https://comick.dev/group/color-noobs) | [https://mangadex.org/group/397c9a6f-9003-406b-b5d2-c6a8cb042bf9/colornoobs](https://mangadex.org/group/397c9a6f-9003-406b-b5d2-c6a8cb042bf9/colornoobs) |
 | Comic Kiba | [Comic Kiba](https://comick.dev/group/comic-kiba) | [https://comickiba.com/](https://comickiba.com/) |
 | ComicDom | [ComicDom](https://comick.dev/group/comic-plus) | [https://comicdom.org/](https://comicdom.org/) |
@@ -320,8 +321,10 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | KrakenKid | [KrakenKid](https://comick.dev/group/kraken-kid) | [https://mangadex.org/group/9325/krakenkid](https://mangadex.org/group/9325/krakenkid) |
 | Kredim | [Kredim](https://comick.dev/group/kredim) | [https://mangadex.org/group/11494/kredim/](https://mangadex.org/group/11494/kredim/) |
 | KS Group | [KS Group](https://comick.dev/group/ks-group) | [https://ksgroupscans.com/home-site/](https://ksgroupscans.com/home-site/) |
+| Kumo Translation | [Kumo Translation](https://comick.dev/group/kumo-translation) | [https://mangadex.org/group/77dd0233-ec2f-4820-bb0a-9b28c929c9aa/kumo-translation](https://mangadex.org/group/77dd0233-ec2f-4820-bb0a-9b28c929c9aa/kumo-translation) |
 | KuroianScan | [KuroianScan](https://comick.dev/group/kuroian-scan) | [https://mangadex.org/group/0d9e4256-f7e8-4f8a-8fc7-12bb4909d5f7/kuroianscan](https://mangadex.org/group/0d9e4256-f7e8-4f8a-8fc7-12bb4909d5f7/kuroianscan) |
 | Kyakka | [Kyakka](https://comick.dev/group/kyakka-jxkazpfs) | [https://kyakka-scans.blogspot.com/](https://kyakka-scans.blogspot.com/) |
+| Kyukuji7 eng | [Kyukuji7 eng](https://comick.dev/group/kyukuji7-eng) | [https://ko-fi.com/kyukuji7](https://ko-fi.com/kyukuji7) |
 | Kyuukei | [Kyuukei](https://comick.dev/group/kyuukei) | [https://kyuukei.mangadex.com/](https://kyuukei.mangadex.com/) |
 | L1v's Translations | [L1v's Translations](https://comick.dev/group/l1v-s-translations) | [https://mangadex.org/group/863d291f-75f2-459f-bae5-73f0260c1162/l1v-s-translations](https://mangadex.org/group/863d291f-75f2-459f-bae5-73f0260c1162/l1v-s-translations) |
 | Lagoonscans | [Lagoonscans](https://comick.dev/group/lagoonscans) | [https://lagoonscans.com](https://lagoonscans.com) |
@@ -406,6 +409,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Misfits Scans | [Misfits Scans](https://comick.dev/group/misfits-scans) | [https://mangadex.org/group/12598/misfits-scans](https://mangadex.org/group/12598/misfits-scans) |
 | Mist Scan | [Mist Scan](https://comick.dev/group/mist-scan) | [https://mistscans.com](https://mistscans.com) |
 | Mistakes Were Made | [Mistakes Were Made](https://comick.dev/group/mistakes-were-made) | [https://mwmtranslations.com/](https://mwmtranslations.com/) |
+| MitsuakiScans | [MitsuakiScans](https://comick.dev/group/mitsuaki-scans) | [https://mangadex.org/group/bce1e0f2-932a-4988-90dc-c21788283736/mitsuakiscans](https://mangadex.org/group/bce1e0f2-932a-4988-90dc-c21788283736/mitsuakiscans) |
 | MMSCANS | [MMSCANS](https://comick.dev/group/mmscans) | [https://mangadex.org/group/16104/mmscans](https://mangadex.org/group/16104/mmscans) |
 | Mochi Hachi Scan | [Mochi Hachi Scan](https://comick.dev/group/mochi-hachi-scan) | [https://mangadex.org/group/39d30252-a9a9-4114-9633-da6da5dbae7f/mochi-hachi-scan](https://mangadex.org/group/39d30252-a9a9-4114-9633-da6da5dbae7f/mochi-hachi-scan) |
 | Moe and Friends | [Moe and Friends](https://comick.dev/group/moe-and-friends-jxqi2kc6) | [https://mangadex.org/group/3962/moe-and-friends](https://mangadex.org/group/3962/moe-and-friends) |
