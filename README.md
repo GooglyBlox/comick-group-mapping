@@ -6,9 +6,9 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 723
-- **Mapped**: 691
-- **Unmapped**: 32
+- **Total Groups**: 728
+- **Mapped**: 695
+- **Unmapped**: 33
 
 ## How to Contribute
 
@@ -245,7 +245,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Heroz Scanlations | [Heroz Scanlations](https://comick.dev/group/heroz-scanlations) | [https://herozscans.com/](https://herozscans.com/) |
 | hidamari | [hidamari](https://comick.dev/group/hidamari) | [https://hidamarisoutranslations.com/](https://hidamarisoutranslations.com/) |
 | hijala | [hijala](https://comick.dev/group/hijala) | [https://mangadex.org/group/a06036c2-f8d3-45b9-9b08-3ddf8ea456bc/hijala](https://mangadex.org/group/a06036c2-f8d3-45b9-9b08-3ddf8ea456bc/hijala) |
-| Hive Scans | [Hive Scans](https://comick.dev/group/hive-scans) | [https://hivetoons.org](https://hivetoons.org) |
+| Hivetoons | [Hivetoons](https://comick.dev/group/hive-scans) | [https://hivetoons.org](https://hivetoons.org) |
 | HNI-Scantrad | [HNI-Scantrad](https://comick.dev/group/hni-scantrad) | [https://hni-scantrad.net/](https://hni-scantrad.net/) |
 | Hokuto no Gun | [Hokuto no Gun](https://comick.dev/group/hokuto-no-gun) | [http://www.hokutonogun.com/](http://www.hokutonogun.com/) |
 | Horny Council | [Horny Council](https://comick.dev/group/horny-council) | [https://mangadex.org/group/14439/horny-council](https://mangadex.org/group/14439/horny-council) |
@@ -612,6 +612,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Tangerine Scans | [Tangerine Scans](https://comick.dev/group/tangerine-scans) | [https://www.mangaupdates.com/group/n4j9qg5/tangerine-scans](https://www.mangaupdates.com/group/n4j9qg5/tangerine-scans) |
 | TangPing Scanlations | [TangPing Scanlations](https://comick.dev/group/tang-ping-scanlations) | [https://comick.io/group/tang-ping-scanlations](https://comick.io/group/tang-ping-scanlations) |
 | Tanzanite Scans | [Tanzanite Scans](https://comick.dev/group/tanzanite-scans) | [https://mangadex.org/group/3850/tanzanitexd](https://mangadex.org/group/3850/tanzanitexd) |
+| Tapas | [Tapas](https://comick.dev/group/tapas) | [https://tapas.io/](https://tapas.io/) |
 | Tarnished | [Tarnished](https://comick.dev/group/tarnished) | [https://mangadex.org/group/13131bf5-1ab1-4fc1-be82-c08e9008a539/tarnished](https://mangadex.org/group/13131bf5-1ab1-4fc1-be82-c08e9008a539/tarnished) |
 | TCB Scans | [TCB Scans](https://comick.dev/group/tcb-scans) | [https://tcbonepiecechapters.com/](https://tcbonepiecechapters.com/) |
 | Te/α | [Te/α](https://comick.dev/group/te-a) | [https://mangadex.org/group/c96dd5ab-ffaf-4379-8955-7434921b880e](https://mangadex.org/group/c96dd5ab-ffaf-4379-8955-7434921b880e) |
@@ -641,6 +642,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | TheSpinyBackTeam | [TheSpinyBackTeam](https://comick.dev/group/the-spiny-back-team) | [https://mangadex.org/group/444b7276-d3d2-4328-862a-149e22c280a1/thespinybackteam](https://mangadex.org/group/444b7276-d3d2-4328-862a-149e22c280a1/thespinybackteam) |
 | Thunderscans | [Thunderscans](https://comick.dev/group/ozulscans) | [https://en-thunderscans.com](https://en-thunderscans.com) |
 | Timeless scans | [Timeless scans](https://comick.dev/group/timeless-scans) | [https://timeless-scans.com/](https://timeless-scans.com/) |
+| Timeless Toons | [Timeless Toons](https://comick.dev/group/timeless-toons) | [https://timelesstoons.org/](https://timelesstoons.org/) |
 | Timelessleaf | [Timelessleaf](https://comick.dev/group/timelessleaf-jxg5f8zh) | [https://timelessleaf.com/](https://timelessleaf.com/) |
 | Tłumaczę Sobie | [Tłumaczę Sobie](https://comick.dev/group/tlumacze-sobie) | [https://mangadex.org/group/5dbfa01b-672a-4fc3-bdce-fe8a28fdd203/t-umacze-sobie](https://mangadex.org/group/5dbfa01b-672a-4fc3-bdce-fe8a28fdd203/t-umacze-sobie) |
 | Tomo Scans | [Tomo Scans](https://comick.dev/group/tomo-scans) | [https://mangadex.org/group/77ecc547-d877-4354-836d-395022a8f8f6/tomo-scans](https://mangadex.org/group/77ecc547-d877-4354-836d-395022a8f8f6/tomo-scans) |
@@ -680,7 +682,9 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Volkan Scans | [Volkan Scans](https://comick.dev/group/volkan-scans) | [http://volkanscans.com/](http://volkanscans.com/) |
 | Vortex Scans | [Vortex Scans](https://comick.dev/group/vortex-scans) | [https://vortexscans.org](https://vortexscans.org) |
 | Vulpine Scans | [Vulpine Scans](https://comick.dev/group/vulpine-scans) | [https://mangadex.org/group/14458/vulpine-scans](https://mangadex.org/group/14458/vulpine-scans) |
+| WaffleSekai Scanlation | [WaffleSekai Scanlation](https://comick.dev/group/waffle-sekai-scanlation) | [https://mangadex.org/group/64877942-3878-4326-a2e9-49703517a3c6/wafflesekai-scanlation](https://mangadex.org/group/64877942-3878-4326-a2e9-49703517a3c6/wafflesekai-scanlation) |
 | Watermark Scans | [Watermark Scans](https://comick.dev/group/watermark-scans-jzv2jyi7) | [https://mangadex.org/group/9313/watermark-scans](https://mangadex.org/group/9313/watermark-scans) |
+| watermelonseed001 | [watermelonseed001](https://comick.dev/group/watermelonseed001) | [https://mangadex.org/group/f34eb9eb-20f7-4393-8dda-a469dca9f933/watermelonseed001](https://mangadex.org/group/f34eb9eb-20f7-4393-8dda-a469dca9f933/watermelonseed001) |
 | WDWeebtoons | [WDWeebtoons](https://comick.dev/group/wd-weebtoons) | [https://wdscans.com/](https://wdscans.com/) |
 | We Hate Isekai | [We Hate Isekai](https://comick.dev/group/we-hate-isekai) | [https://wehateisekai.club/](https://wehateisekai.club/) |
 | We Need More Yankiis | [We Need More Yankiis](https://comick.dev/group/we-need-more-yankiis) | [https://mangadex.org/group/13557/we-need-more-yankiis](https://mangadex.org/group/13557/we-need-more-yankiis) |
@@ -723,6 +727,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | :---- | :---------- | :------ |
 | ABANDONED GROUP SCANS | [ABANDONED GROUP SCANS](https://comick.dev/group/abandoned-group) | — |
 | akai comic | [akai comic](https://comick.dev/group/akai-comic) | — |
+| ALONE SCANLATION | [ALONE SCANLATION](https://comick.dev/group/alone-scanlation) | — |
 | alt.ver. | [alt.ver.](https://comick.dev/group/alt-ver) | — |
 | Aurora | [Aurora](https://comick.dev/group/aurora) | — |
 | BabelWuxia | [BabelWuxia](https://comick.dev/group/babelwuxia) | — |
