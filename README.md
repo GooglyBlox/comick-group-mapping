@@ -7,8 +7,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 ## Stats
 
 - **Total Groups**: 728
-- **Mapped**: 695
-- **Unmapped**: 33
+- **Mapped**: 696
+- **Unmapped**: 32
 
 ## How to Contribute
 
@@ -50,6 +50,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Alien Scans! | [Alien Scans!](https://comick.dev/group/alien-scans) | [https://mangadex.org/group/10637/alien-scans](https://mangadex.org/group/10637/alien-scans) |
 | alikerak | [alikerak](https://comick.dev/group/alikerak) | [https://mangadex.org/group/bdeacf94-e93b-4413-aab0-598f78360abc/alikerak](https://mangadex.org/group/bdeacf94-e93b-4413-aab0-598f78360abc/alikerak) |
 | ALN SCANS | [ALN SCANS](https://comick.dev/group/aln-scans) | [https://alnscans.com/](https://alnscans.com/) |
+| ALONE SCANLATION | [ALONE SCANLATION](https://comick.dev/group/alone-scanlation) | [https://mangadex.org/group/432d335b-07a3-494a-86fd-20d8cb1d0062/alone-scanlation](https://mangadex.org/group/432d335b-07a3-494a-86fd-20d8cb1d0062/alone-scanlation) |
 | AloneSCAN | [AloneSCAN](https://comick.dev/group/alone-scan) | [https://mangadex.org/group/6458/alonescan](https://mangadex.org/group/6458/alonescan) |
 | Alpha Scans | [Alpha Scans](https://comick.dev/group/alpha-scans) | [https://web.archive.org/web/20221101155308/https://alpha-scans.org/](https://web.archive.org/web/20221101155308/https://alpha-scans.org/) |
 | Alternative Scans | [Alternative Scans](https://comick.dev/group/alternative-scans) | [https://alternativescans.icu/](https://alternativescans.icu/) |
@@ -727,7 +728,6 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | :---- | :---------- | :------ |
 | ABANDONED GROUP SCANS | [ABANDONED GROUP SCANS](https://comick.dev/group/abandoned-group) | — |
 | akai comic | [akai comic](https://comick.dev/group/akai-comic) | — |
-| ALONE SCANLATION | [ALONE SCANLATION](https://comick.dev/group/alone-scanlation) | — |
 | alt.ver. | [alt.ver.](https://comick.dev/group/alt-ver) | — |
 | Aurora | [Aurora](https://comick.dev/group/aurora) | — |
 | BabelWuxia | [BabelWuxia](https://comick.dev/group/babelwuxia) | — |
