@@ -7,8 +7,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 ## Stats
 
 - **Total Groups**: 728
-- **Mapped**: 696
-- **Unmapped**: 32
+- **Mapped**: 712
+- **Unmapped**: 16
 
 ## How to Contribute
 
@@ -37,6 +37,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | A Little Sunshine Scans | [A Little Sunshine Scans](https://comick.dev/group/a-little-sunshine-scans) | [https://mangadex.org/group/10565/a-little-sunshine-scans](https://mangadex.org/group/10565/a-little-sunshine-scans) |
 | A pair of 2+ | [A pair of 2+](https://comick.dev/group/a-pair-of-2) | [https://comick.io/group/a-pair-of-2](https://comick.io/group/a-pair-of-2) |
 | A Parody Scans | [A Parody Scans](https://comick.dev/group/a-parody-scans) | [https://www.aparodys.com/](https://www.aparodys.com/) |
+| ABANDONED GROUP SCANS | [ABANDONED GROUP SCANS](https://comick.dev/group/abandoned-group) | [https://mangadex.org/group/204aa2db-35ac-4594-b8ac-669e441c0b7e/abandoned-group](https://mangadex.org/group/204aa2db-35ac-4594-b8ac-669e441c0b7e/abandoned-group) |
 | Abyss When Scans | [Abyss When Scans](https://comick.dev/group/abyss-when-scans) | [https://mangadex.org/group/d2194a4d-e305-4f84-9d0b-544003d30647/abyss-when-scans](https://mangadex.org/group/d2194a4d-e305-4f84-9d0b-544003d30647/abyss-when-scans) |
 | AbyssToons | [AbyssToons](https://comick.dev/group/abysstoons) | [https://abysstoons.site/](https://abysstoons.site/) |
 | ACE SCANS | [ACE SCANS](https://comick.dev/group/ace-scans) | [https://mangadex.org/group/13855/ace-scans](https://mangadex.org/group/13855/ace-scans) |
@@ -45,6 +46,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | AGR Comics | [AGR Comics](https://comick.dev/group/agr-comics) | [https://agrcomics.org/](https://agrcomics.org/) |
 | Ah Das Hot | [Ah Das Hot](https://comick.dev/group/ah-das-hot) | [https://mangadex.org/group/ba086d99-9f00-4a1f-af93-b79628d9b852/ah-das-hot](https://mangadex.org/group/ba086d99-9f00-4a1f-af93-b79628d9b852/ah-das-hot) |
 | Ai's fanclub | [Ai's fanclub](https://comick.dev/group/ai-s-fanclub) | [https://mangadex.org/group/13570/ai-s-fanclub](https://mangadex.org/group/13570/ai-s-fanclub) |
+| akai comic | [akai comic](https://comick.dev/group/akai-comic) | [https://akaicomic.org](https://akaicomic.org) |
 | Akatsuki Scans | [Akatsuki Scans](https://comick.dev/group/akatsuki-scans) | [https://mangadex.org/group/12408/akatsuki-scans](https://mangadex.org/group/12408/akatsuki-scans) |
 | Akuzenai Arts | [Akuzenai Arts](https://comick.dev/group/anitation-arts) | [https://akuzenaiarts.org](https://akuzenaiarts.org) |
 | Alien Scans! | [Alien Scans!](https://comick.dev/group/alien-scans) | [https://mangadex.org/group/10637/alien-scans](https://mangadex.org/group/10637/alien-scans) |
@@ -80,6 +82,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | AteTeenPlus | [AteTeenPlus](https://comick.dev/group/ate-teen-plus) | [https://mangadex.org/group/13045/ateteenplus](https://mangadex.org/group/13045/ateteenplus) |
 | aumakua | [aumakua](https://comick.dev/group/aumakua) | [https://mangadex.org/group/506](https://mangadex.org/group/506) |
 | Babeltoon | [Babeltoon](https://comick.dev/group/babeltoon) | [https://babeltoon.com/](https://babeltoon.com/) |
+| BabelWuxia | [BabelWuxia](https://comick.dev/group/babelwuxia) | [https://babelwuxia.com](https://babelwuxia.com) |
 | Baby One more Time | [Baby One more Time](https://comick.dev/group/baby-one-more-time) | [https://mangadex.org/group/8518/baby-one-more-time](https://mangadex.org/group/8518/baby-one-more-time) |
 | Baddies' Asylum | [Baddies' Asylum](https://comick.dev/group/simps-scan) | [https://mangadex.org/group/745407c0-a55c-4db6-8dc8-b21a0e918c03/simps-scan](https://mangadex.org/group/745407c0-a55c-4db6-8dc8-b21a0e918c03/simps-scan) |
 | BAEK 100 SCANS | [BAEK 100 SCANS](https://comick.dev/group/baek-100-scans) | [https://baektoons.com/](https://baektoons.com/) |
@@ -94,6 +97,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Berry | [Berry](https://comick.dev/group/berry) | [https://mangadex.org/group/dc3815bb-7138-4c13-b94d-8bcfbeda3cfb/berry](https://mangadex.org/group/dc3815bb-7138-4c13-b94d-8bcfbeda3cfb/berry) |
 | Biamam Scans | [Biamam Scans](https://comick.dev/group/biamam-scans-jx2mqe6r) | [https://mangadex.org/group/214](https://mangadex.org/group/214) |
 | Bilibili Comics | [Bilibili Comics](https://comick.dev/group/bilibili-comics) | [https://www.bilibilicomics.com/](https://www.bilibilicomics.com/) |
+| Binktopia scan | [Binktopia scan](https://comick.dev/group/binktopia-scan-jxfpyy80) | [https://binktopia.org](https://binktopia.org) |
 | Bl0ze | [Bl0ze](https://comick.dev/group/bl0ze) | [https://mangadex.org/group/369d1c56-6fd4-4667-9a66-73d1df0f76fe/bl0ze](https://mangadex.org/group/369d1c56-6fd4-4667-9a66-73d1df0f76fe/bl0ze) |
 | Black Cat Scanlations | [Black Cat Scanlations](https://comick.dev/group/black-cat-scanlations-jxn1ldva) | [https://catmanga.org/](https://catmanga.org/) |
 | Black Wolf Translations | [Black Wolf Translations](https://comick.dev/group/black-wolf-translations) | [https://mangadex.org/group/a0a40f6c-6f65-43ba-bb15-301e7d64129b/black-wolf-translations](https://mangadex.org/group/a0a40f6c-6f65-43ba-bb15-301e7d64129b/black-wolf-translations) |
@@ -102,6 +106,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | bluewallblacktile | [bluewallblacktile](https://comick.dev/group/bluewallblacktile) | [https://mangadex.org/group/bf41979d-6ae4-40bd-a8dd-59cecd03e90d/bluewallblacktile](https://mangadex.org/group/bf41979d-6ae4-40bd-a8dd-59cecd03e90d/bluewallblacktile) |
 | BLUTOONS | [BLUTOONS](https://comick.dev/group/sussyuri) | [https://mangadex.org/group/bd7a5173-c687-4787-b9fd-42082baf100a/blutoons](https://mangadex.org/group/bd7a5173-c687-4787-b9fd-42082baf100a/blutoons) |
 | Bored Corona Kids | [Bored Corona Kids](https://comick.dev/group/bored-corona-kids) | [https://mangadex.org/group/15316/bored-corona-kids](https://mangadex.org/group/15316/bored-corona-kids) |
+| Boredom Society | [Boredom Society](https://comick.dev/group/boredom-society) | [https://mangadex.org/group/3043/boredom-society-scanlations](https://mangadex.org/group/3043/boredom-society-scanlations) |
 | Brick | [Brick](https://comick.dev/group/brick) | [https://mangadex.org/group/feae61ea-d5fc-470f-ab78-1bdfc8c6866f/brick](https://mangadex.org/group/feae61ea-d5fc-470f-ab78-1bdfc8c6866f/brick) |
 | BRS Manhua Scans | [BRS Manhua Scans](https://comick.dev/group/brs-manhua-scans) | [https://mangadex.org/group/13358/brs-manhua-scans](https://mangadex.org/group/13358/brs-manhua-scans) |
 | Brutalbot Scans | [Brutalbot Scans](https://comick.dev/group/brutalbot-scans) | [https://mangadex.org/group/15562/brutalbot-scans](https://mangadex.org/group/15562/brutalbot-scans) |
@@ -109,6 +114,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | BUCCI GANG | [BUCCI GANG](https://comick.dev/group/bucci-gang-k06ed4fi) | [https://mangadex.org/group/9362/bucci-gang](https://mangadex.org/group/9362/bucci-gang) |
 | Butter Scan | [Butter Scan](https://comick.dev/group/butter-scan) | [https://mangadex.org/group/77e36ec0-503e-4c0a-9b61-d5d505ce605c/butter-scan](https://mangadex.org/group/77e36ec0-503e-4c0a-9b61-d5d505ce605c/butter-scan) |
 | Butterfly Scans | [Butterfly Scans](https://comick.dev/group/butterfly-scans) | [https://mangadex.org/group/16732/butterfly-scans](https://mangadex.org/group/16732/butterfly-scans) |
+| Cadre Sub | [Cadre Sub](https://comick.dev/group/cadre-sub) | [https://mangadex.org/group/16824/cadre-scans](https://mangadex.org/group/16824/cadre-scans) |
 | Café Vera | [Café Vera](https://comick.dev/group/cafe-vera) | [https://mangadex.org/group/13318/caf-vera](https://mangadex.org/group/13318/caf-vera) |
 | Carefree scanlations | [Carefree scanlations](https://comick.dev/group/carefree-scanlations) | [https://mangadex.org/group/6121e674-16cf-4d46-893a-f5fe4aac4a05/carefree-scanlations](https://mangadex.org/group/6121e674-16cf-4d46-893a-f5fe4aac4a05/carefree-scanlations) |
 | Casa Comic | [Casa Comic](https://comick.dev/group/casa-comic) | [https://casacomic.com/](https://casacomic.com/) |
@@ -223,6 +229,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | GlobalBloging.com | [GlobalBloging.com](https://comick.dev/group/global-bloging-com) | [https://globalbloging.com/](https://globalbloging.com/) |
 | Goddess Scans | [Goddess Scans](https://comick.dev/group/goddess-scans) | [https://mangadex.org/group/14539/goddess-scans](https://mangadex.org/group/14539/goddess-scans) |
 | Gold Scale | [Gold Scale](https://comick.dev/group/gold-scale) | [https://mangadex.org/group/6c9424fc-f012-4ea2-a8b3-4b4739ceefdb/gold-scale](https://mangadex.org/group/6c9424fc-f012-4ea2-a8b3-4b4739ceefdb/gold-scale) |
+| Golden Pineapple Scanlation | [Golden Pineapple Scanlation](https://comick.dev/group/pineapple-zpeno-s-scanlation) | [https://mangadex.org/group/6fb066da-804b-4c04-bb7c-0d6ed6238908/pineapplezpeno-s-scanlation](https://mangadex.org/group/6fb066da-804b-4c04-bb7c-0d6ed6238908/pineapplezpeno-s-scanlation) |
 | Golden Scanlations | [Golden Scanlations](https://comick.dev/group/golden-scanlations) | [https://comick.io/group/golden-scanlations](https://comick.io/group/golden-scanlations) |
 | goon squad | [goon squad](https://comick.dev/group/goon-squad) | [https://mangadex.org/group/15755/goon-squad](https://mangadex.org/group/15755/goon-squad) |
 | Gouma-Den | [Gouma-Den](https://comick.dev/group/gouma-den) | [https://mangadex.org/group/13324/gouma-den](https://mangadex.org/group/13324/gouma-den) |
@@ -303,6 +310,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Keshigomu Scans | [Keshigomu Scans](https://comick.dev/group/keshigomu-scans) | [https://mangadex.org/group/021d6760-cd10-4f40-8bef-0240f53dfc1b/keshigomu-scans](https://mangadex.org/group/021d6760-cd10-4f40-8bef-0240f53dfc1b/keshigomu-scans) |
 | Kewn Scans | [Kewn Scans](https://comick.dev/group/kewn-scans) | [https://kewnscans.org/](https://kewnscans.org/) |
 | kingdomscan's | [kingdomscan's](https://comick.dev/group/kingdomscan-s) | [https://mangadex.org/group/12338/kingdomscan-s](https://mangadex.org/group/12338/kingdomscan-s) |
+| Kings & Queens | [Kings & Queens](https://comick.dev/group/kings-and-queens) | [https://mangadex.org/group/16871/kings-queens](https://mangadex.org/group/16871/kings-queens) |
 | KINGSCANS | [KINGSCANS](https://comick.dev/group/kingscans) | [https://thekingscans.blogspot.com/](https://thekingscans.blogspot.com/) |
 | Kira Scans | [Kira Scans](https://comick.dev/group/kira-scans) | [https://kirascans.com/](https://kirascans.com/) |
 | Kirei Cake | [Kirei Cake](https://comick.dev/group/kirei-cake) | [http://kireicake.com/](http://kireicake.com/) |
@@ -349,6 +357,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | LHTranslation | [LHTranslation](https://comick.dev/group/lh-translation) | [https://lhtranslation.net](https://lhtranslation.net) |
 | Lid Scans | [Lid Scans](https://comick.dev/group/lid-scans) | [https://mangadex.org/group/e8d40298-df04-4807-ac30-edb67a33131a/lid-scans](https://mangadex.org/group/e8d40298-df04-4807-ac30-edb67a33131a/lid-scans) |
 | Lilith Scanlations | [Lilith Scanlations](https://comick.dev/group/lilith-scanlations) | [https://forms.gle/KDB6EFk3mYCSSdUL7](https://forms.gle/KDB6EFk3mYCSSdUL7) |
+| Little Miss & Good Sir Scanlations | [Little Miss & Good Sir Scanlations](https://comick.dev/group/little-miss-and-good-sir-scanlations) | [https://mangadex.org/group/10686/little-miss-good-sir-scanlations](https://mangadex.org/group/10686/little-miss-good-sir-scanlations) |
 | LoliTobrut | [LoliTobrut](https://comick.dev/group/loli-tobrut) | [https://mangadex.org/group/0a5a2b15-9ca5-4a7b-9b0c-ad1a1696e5a6/lolitobrut](https://mangadex.org/group/0a5a2b15-9ca5-4a7b-9b0c-ad1a1696e5a6/lolitobrut) |
 | Lost Chapter Scanlations | [Lost Chapter Scanlations](https://comick.dev/group/lost-chapter-scanlations) | [https://mangadex.org/group/72840102-f99e-4df8-ab22-dfc2ea468dda/lost-chapter-scanlations](https://mangadex.org/group/72840102-f99e-4df8-ab22-dfc2ea468dda/lost-chapter-scanlations) |
 | Lovesick Alley | [Lovesick Alley](https://comick.dev/group/lovesick-alley) | [https://lovesickalley.carrd.co/](https://lovesickalley.carrd.co/) |
@@ -367,6 +376,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Magnos scans | [Magnos scans](https://comick.dev/group/magnos-scans) | [https://mangadex.org/group/14741/magnos-scans](https://mangadex.org/group/14741/magnos-scans) |
 | Magusmanga | [Magusmanga](https://comick.dev/group/magusmangaxqQj) | [https://magustoon.org](https://magustoon.org) |
 | Makiling Scans | [Makiling Scans](https://comick.dev/group/makiling-scans) | [https://mangadex.org/group/92195ad1-6eae-4bfc-9fdd-3ccc6de8cf83/makiling-scans](https://mangadex.org/group/92195ad1-6eae-4bfc-9fdd-3ccc6de8cf83/makiling-scans) |
+| mali & fish | [mali & fish](https://comick.dev/group/mali-and-fish) | [https://mangadex.org/group/9f3dbd78-3684-40db-b04f-f07d9972409d/mali-fish](https://mangadex.org/group/9f3dbd78-3684-40db-b04f-f07d9972409d/mali-fish) |
 | MANA SCANS | [MANA SCANS](https://comick.dev/group/mana-scans) | [https://discordapp.com/users/myleynay](https://discordapp.com/users/myleynay) |
 | Manga Galaxy | [Manga Galaxy](https://comick.dev/group/orbital-scans) | [https://mangagalaxy.net/home](https://mangagalaxy.net/home) |
 | Manga UP! | [Manga UP!](https://comick.dev/group/manga-up) | [https://global.manga-up.com/](https://global.manga-up.com/) |
@@ -437,8 +447,11 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Nemoa | [Nemoa](https://comick.dev/group/nemoa) | [https://mangadex.org/group/4907721e-0813-4085-a953-b3db50322df4/nemoa](https://mangadex.org/group/4907721e-0813-4085-a953-b3db50322df4/nemoa) |
 | Neox Scanlator | [Neox Scanlator](https://comick.dev/group/neox-scanlator-jy4tfd0n) | [https://web.archive.org/web/20240217201147/https://nexoscans.com/](https://web.archive.org/web/20240217201147/https://nexoscans.com/) |
 | Nerissa's Barely Competent Jailbird Scans | [Nerissa's Barely Competent Jailbird Scans](https://comick.dev/group/nerissas-barely-competent-jailbird-scans) | [https://mangadex.org/group/0e5b7cf4-f980-4aec-899e-33789cae670a/nerissa-s-barely-competent-jailbird-scans](https://mangadex.org/group/0e5b7cf4-f980-4aec-899e-33789cae670a/nerissa-s-barely-competent-jailbird-scans) |
+| NewManhua | [NewManhua](https://comick.dev/group/newmanhua) | [https://newmanhua.com](https://newmanhua.com) |
 | Nexcomic | [Nexcomic](https://comick.dev/group/nexcomic) | [https://nexcomic.com/](https://nexcomic.com/) |
+| nhimzy | [nhimzy](https://comick.dev/group/nhimzy) | [https://twitter.com/Nhim_Art](https://twitter.com/Nhim_Art) |
 | Nidhogg Scans | [Nidhogg Scans](https://comick.dev/group/nidhogg-scans-jx89fevt) | [https://mangadex.org/group/6983/nidhogg-scans](https://mangadex.org/group/6983/nidhogg-scans) |
+| Nightscans | [Nightscans](https://comick.dev/group/nightscans) | [https://nightscans.net](https://nightscans.net) |
 | Nike | [Nike](https://comick.dev/group/nike) | [https://mangadex.org/group/16672/nike](https://mangadex.org/group/16672/nike) |
 | Nimbus Scans | [Nimbus Scans](https://comick.dev/group/nimbus-scans) | [https://mangadex.org/group/10204/nimbus-scans](https://mangadex.org/group/10204/nimbus-scans) |
 | NinjaScans | [NinjaScans](https://comick.dev/group/ninja-scans) | [https://www.ninjascans.com/](https://www.ninjascans.com/) |
@@ -463,6 +476,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | oh hi :D | [oh hi :D](https://comick.dev/group/oh-hi-d) | [https://mangadex.org/group/add42b8b-f10e-4542-a3f8-3c05258920f7/oh-hi-d](https://mangadex.org/group/add42b8b-f10e-4542-a3f8-3c05258920f7/oh-hi-d) |
 | On A Whim | [On A Whim](https://comick.dev/group/on-a-whim) | [https://mangadex.org/group/1d03b090-d028-4fe1-b3c6-5877a835701e/on-a-whim](https://mangadex.org/group/1d03b090-d028-4fe1-b3c6-5877a835701e/on-a-whim) |
 | Once Upon A Dreamland | [Once Upon A Dreamland](https://comick.dev/group/once-upon-a-dreamland) | [https://mangadex.org/group/10794/once-upon-a-dreamland](https://mangadex.org/group/10794/once-upon-a-dreamland) |
+| OP Scans | [OP Scans](https://comick.dev/group/opscans) | [https://opscans.com/](https://opscans.com/) |
 | Open Machine Translations | [Open Machine Translations](https://comick.dev/group/open-machine-translations) | [https://openmachinetranslations.wordpress.com/](https://openmachinetranslations.wordpress.com/) |
 | orange and lemon | [orange and lemon](https://comick.dev/group/orange-and-lemon) | [https://mangadex.org/group/071a2c50-6b91-40c3-9977-ffd599b8601f/orange-and-lemon](https://mangadex.org/group/071a2c50-6b91-40c3-9977-ffd599b8601f/orange-and-lemon) |
 | orangescans | [orangescans](https://comick.dev/group/orangescans) | [https://mangadex.org/group/9915/orangescans](https://mangadex.org/group/9915/orangescans) |
@@ -654,6 +668,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | ToruScans | [ToruScans](https://comick.dev/group/toru-scans) | [https://mangadex.org/group/69148b88-5740-434d-b62f-b67711ca490b/toruscans](https://mangadex.org/group/69148b88-5740-434d-b62f-b67711ca490b/toruscans) |
 | Translatione Ex Machina | [Translatione Ex Machina](https://comick.dev/group/translatione-ex-machina) | [https://mangadex.org/group/12514/translatione-ex-machina](https://mangadex.org/group/12514/translatione-ex-machina) |
 | Trap-scans | [Trap-scans](https://comick.dev/group/trap-scans) | [https://trapscans.com/](https://trapscans.com/) |
+| trashscanlations | [trashscanlations](https://comick.dev/group/trashscanlations-jxfxgorq) | [https://mangadex.org/group/1ac54f35-7c5f-4bbf-bd3c-d83b8424239d/trashscanlations](https://mangadex.org/group/1ac54f35-7c5f-4bbf-bd3c-d83b8424239d/trashscanlations) |
 | Träumerei Scans | [Träumerei Scans](https://comick.dev/group/traeumerei-scans) | [http://traumereiscans.blogspot.com/](http://traumereiscans.blogspot.com/) |
 | TripolarsNotBipolars | [TripolarsNotBipolars](https://comick.dev/group/tripolars-not-bipolars) | [https://mangadex.org/group/5cb15d50-1b3f-47fa-9213-afd9f3428f77/tripolarsnotbipolars](https://mangadex.org/group/5cb15d50-1b3f-47fa-9213-afd9f3428f77/tripolarsnotbipolars) |
 | Tritinia Scans | [Tritinia Scans](https://comick.dev/group/tritinia-scans-jwytzfk2) | [https://tritinia.org/](https://tritinia.org/) |
@@ -693,6 +708,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Webdex | [Webdex](https://comick.dev/group/webdex) | [https://webdexscans.com/](https://webdexscans.com/) |
 | Webtoon | [Webtoon](https://comick.dev/group/line-webtoon) | [https://www.webtoons.com](https://www.webtoons.com) |
 | Weeaboo Scans | [Weeaboo Scans](https://comick.dev/group/weeaboo-scans) | [https://www.mangaweeaboo.com/](https://www.mangaweeaboo.com/) |
+| WeScan | [WeScan](https://comick.dev/group/we-scan) | [http://www.wescans.xyz/](http://www.wescans.xyz/) |
 | West Egg Translations | [West Egg Translations](https://comick.dev/group/west-egg-translations) | [https://mangadex.org/group/4561/west-egg-translations](https://mangadex.org/group/4561/west-egg-translations) |
 | What's Typesetting? | [What's Typesetting?](https://comick.dev/group/what-s-typesetting) | [https://mangadex.org/group/d93016fa-0af4-4967-a1b3-7bd8a6a87483/what-s-typesetting](https://mangadex.org/group/d93016fa-0af4-4967-a1b3-7bd8a6a87483/what-s-typesetting) |
 | WhataFruit | [WhataFruit](https://comick.dev/group/whata-scan) | [https://mangadex.org/group/f7381598-1cc0-4bf2-a35b-006ccddbb58d/whatafruit](https://mangadex.org/group/f7381598-1cc0-4bf2-a35b-006ccddbb58d/whatafruit) |
@@ -726,35 +742,19 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 
 | Group | Comick Page | Website |
 | :---- | :---------- | :------ |
-| ABANDONED GROUP SCANS | [ABANDONED GROUP SCANS](https://comick.dev/group/abandoned-group) | — |
-| akai comic | [akai comic](https://comick.dev/group/akai-comic) | — |
 | alt.ver. | [alt.ver.](https://comick.dev/group/alt-ver) | — |
 | Aurora | [Aurora](https://comick.dev/group/aurora) | — |
-| BabelWuxia | [BabelWuxia](https://comick.dev/group/babelwuxia) | — |
-| Binktopia scan | [Binktopia scan](https://comick.dev/group/binktopia-scan-jxfpyy80) | — |
-| Boredom Society | [Boredom Society](https://comick.dev/group/boredom-society) | — |
-| Cadre Sub | [Cadre Sub](https://comick.dev/group/cadre-sub) | — |
 | Colored Manga | [Colored Manga](https://comick.dev/group/colored-manga) | — |
 | Crystal Blitz | [Crystal Blitz](https://comick.dev/group/crystal-blitz) | — |
 | CulR | [CulR](https://comick.dev/group/cul-r) | — |
-| Golden Pineapple Scanlation | [Golden Pineapple Scanlation](https://comick.dev/group/pineapple-zpeno-s-scanlation) | — |
 | Gonek | [Gonek](https://comick.dev/group/gonek) | — |
 | Heavenly Demon Scans | [Heavenly Demon Scans](https://comick.dev/group/heavenly-demon-scans) | — |
 | kaiscans | [kaiscans](https://comick.dev/group/kaiscans) | — |
-| Kings & Queens | [Kings & Queens](https://comick.dev/group/kings-and-queens) | — |
 | Lacuna Scans | [Lacuna Scans](https://comick.dev/group/lacuna-scans) | — |
 | Lezhin (Ex-Licenses) | [Lezhin (Ex-Licenses)](https://comick.dev/group/lezhin-ex-licenses) | — |
-| Little Miss & Good Sir Scanlations | [Little Miss & Good Sir Scanlations](https://comick.dev/group/little-miss-and-good-sir-scanlations) | — |
-| mali & fish | [mali & fish](https://comick.dev/group/mali-and-fish) | — |
 | NeitheYAGI | [NeitheYAGI](https://comick.dev/group/neithe-yagi) | — |
-| NewManhua | [NewManhua](https://comick.dev/group/newmanhua) | — |
-| nhimzy | [nhimzy](https://comick.dev/group/nhimzy) | — |
-| Nightscans | [Nightscans](https://comick.dev/group/nightscans) | — |
 | no group | [no group](https://comick.dev/group/no-group) | — |
 | Official | [Official](https://comick.dev/group/official) | — |
-| OP Scans | [OP Scans](https://comick.dev/group/opscans) | — |
-| trashscanlations | [trashscanlations](https://comick.dev/group/trashscanlations-jxfxgorq) | — |
 | Unknown | [Unknown](https://comick.dev/group/unknown) | — |
 | WEBTOON (Ex-Licenses) | [WEBTOON (Ex-Licenses)](https://comick.dev/group/line-webtoon-ex-licenses) | — |
-| WeScan | [WeScan](https://comick.dev/group/we-scan) | — |
 | White Crow Scans | [White Crow Scans](https://comick.dev/group/white-crow-scans) | — |
