@@ -135,6 +135,11 @@
     "url": "https://alnscans.com/"
   },
   {
+    "title": "ALONE SCANLATION",
+    "slug": "alone-scanlation",
+    "url": ""
+  },
+  {
     "title": "AloneSCAN",
     "slug": "alone-scan",
     "url": "https://mangadex.org/group/6458/alonescan"
@@ -1170,7 +1175,7 @@
     "url": "https://mangadex.org/group/a06036c2-f8d3-45b9-9b08-3ddf8ea456bc/hijala"
   },
   {
-    "title": "Hive Scans",
+    "title": "Hivetoons",
     "slug": "hive-scans",
     "url": "https://hivetoons.org"
   },
@@ -3070,6 +3075,11 @@
     "url": "https://mangadex.org/group/3850/tanzanitexd"
   },
   {
+    "title": "Tapas",
+    "slug": "tapas",
+    "url": "https://tapas.io/"
+  },
+  {
     "title": "Tarnished",
     "slug": "tarnished",
     "url": "https://mangadex.org/group/13131bf5-1ab1-4fc1-be82-c08e9008a539/tarnished"
@@ -3213,6 +3223,11 @@
     "title": "Timeless scans",
     "slug": "timeless-scans",
     "url": "https://timeless-scans.com/"
+  },
+  {
+    "title": "Timeless Toons",
+    "slug": "timeless-toons",
+    "url": "https://timelesstoons.org/"
   },
   {
     "title": "Timelessleaf",
@@ -3420,9 +3435,19 @@
     "url": "https://mangadex.org/group/14458/vulpine-scans"
   },
   {
+    "title": "WaffleSekai Scanlation",
+    "slug": "waffle-sekai-scanlation",
+    "url": "https://mangadex.org/group/64877942-3878-4326-a2e9-49703517a3c6/wafflesekai-scanlation"
+  },
+  {
     "title": "Watermark Scans",
     "slug": "watermark-scans-jzv2jyi7",
     "url": "https://mangadex.org/group/9313/watermark-scans"
+  },
+  {
+    "title": "watermelonseed001",
+    "slug": "watermelonseed001",
+    "url": "https://mangadex.org/group/f34eb9eb-20f7-4393-8dda-a469dca9f933/watermelonseed001"
   },
   {
     "title": "WDWeebtoons",
