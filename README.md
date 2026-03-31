@@ -6,9 +6,9 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 728
-- **Mapped**: 712
-- **Unmapped**: 16
+- **Total Groups**: 734
+- **Mapped**: 716
+- **Unmapped**: 18
 
 ## How to Contribute
 
@@ -244,6 +244,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Haku Scans | [Haku Scans](https://comick.dev/group/haku-scans) | [https://haku-scans.blogspot.com/](https://haku-scans.blogspot.com/) |
 | HAMASCANS | [HAMASCANS](https://comick.dev/group/hamascans) | [https://mangadex.org/group/1891bf69-51d0-4f8b-be98-4a489fab8672](https://mangadex.org/group/1891bf69-51d0-4f8b-be98-4a489fab8672) |
 | Hammer Shock Scans | [Hammer Shock Scans](https://comick.dev/group/hammer-shock-scans) | [https://mangadex.org/group/78906e30-6376-4379-9e24-c31bbda99aeb/hammer-shock-scans](https://mangadex.org/group/78906e30-6376-4379-9e24-c31bbda99aeb/hammer-shock-scans) |
+| Haraguro Scanlations | [Haraguro Scanlations](https://comick.dev/group/haraguro-scanlations) | [http://haraguroscans.blogspot.com/](http://haraguroscans.blogspot.com/) |
 | Harmless Monsters | [Harmless Monsters](https://comick.dev/group/harmless-monsters) | [https://naabii.home.blog/](https://naabii.home.blog/) |
 | HaruPARTY | [HaruPARTY](https://comick.dev/group/haru-party) | [http://lasolistia.com/haruparty/](http://lasolistia.com/haruparty/) |
 | Heavenly Fate | [Heavenly Fate](https://comick.dev/group/heavenly-fate1fDk) | [https://mangadex.org/group/7dcbedb8-3519-4ae9-9948-0a1ac5115192/heavenly-fate](https://mangadex.org/group/7dcbedb8-3519-4ae9-9948-0a1ac5115192/heavenly-fate) |
@@ -258,6 +259,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Hokuto no Gun | [Hokuto no Gun](https://comick.dev/group/hokuto-no-gun) | [http://www.hokutonogun.com/](http://www.hokutonogun.com/) |
 | Horny Council | [Horny Council](https://comick.dev/group/horny-council) | [https://mangadex.org/group/14439/horny-council](https://mangadex.org/group/14439/horny-council) |
 | Hot Single Scanlators In Your Area | [Hot Single Scanlators In Your Area](https://comick.dev/group/hot-single-scanlators-in-your-area) | [https://mangadex.org/group/55f3940d-9183-4713-b78c-a27e46c73482/hot-single-scanlators-in-your-area](https://mangadex.org/group/55f3940d-9183-4713-b78c-a27e46c73482/hot-single-scanlators-in-your-area) |
+| HotBird Scans | [HotBird Scans](https://comick.dev/group/hot-bird-scans) | [https://mangadex.org/group/71d48319-b34e-442d-a919-93858cc2d2ad/hotbird-scans](https://mangadex.org/group/71d48319-b34e-442d-a919-93858cc2d2ad/hotbird-scans) |
 | Hou.Hou?Hou! | [Hou.Hou?Hou!](https://comick.dev/group/hou-hou-hou) | [https://mangadex.org/group/68f52c5f-8815-4eba-8774-a6d82064f8ca/hou-hou-hou](https://mangadex.org/group/68f52c5f-8815-4eba-8774-a6d82064f8ca/hou-hou-hou) |
 | Hour of Lunacy Scans | [Hour of Lunacy Scans](https://comick.dev/group/hour-of-lunacy-scans) | [https://www.mangaupdates.com/groups.html?id=11799](https://www.mangaupdates.com/groups.html?id=11799) |
 | hscans | [hscans](https://comick.dev/group/hscans) | [https://hscans.com/](https://hscans.com/) |
@@ -302,7 +304,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | KappaBeast | [KappaBeast](https://comick.dev/group/gashadokai) | [https://kappabeast.com](https://kappabeast.com) |
 | KATCR | [KATCR](https://comick.dev/group/katcr) | [https://mangadex.org/group/2c055fc4-b375-4d80-9629-2f9521dfdf6f/katcr](https://mangadex.org/group/2c055fc4-b375-4d80-9629-2f9521dfdf6f/katcr) |
 | KAYdoesitsolo | [KAYdoesitsolo](https://comick.dev/group/ka-ydoesitsolo) | [https://mangadex.org/group/af8a39fb-c910-4b98-9945-28b995724983/kaydoesitsolo](https://mangadex.org/group/af8a39fb-c910-4b98-9945-28b995724983/kaydoesitsolo) |
-| Kayscans | [Kayscans](https://comick.dev/group/kaynscan) | [https://kaynscan.com](https://kaynscan.com) |
+| Kaynscans | [Kaynscans](https://comick.dev/group/kaynscan) | [https://kaynscan.com](https://kaynscan.com) |
 | KDT SCANS | [KDT SCANS](https://comick.dev/group/kdt-scans) | [https://www.silentquill.net](https://www.silentquill.net) |
 | Keiretsu | [Keiretsu](https://comick.dev/group/keiretsu) | [https://mangadex.org/group/dd334c28-654e-4987-8515-b4539064714b/keiretsu](https://mangadex.org/group/dd334c28-654e-4987-8515-b4539064714b/keiretsu) |
 | ken manga | [ken manga](https://comick.dev/group/ken-manga) | [https://kenscans.org/](https://kenscans.org/) |
@@ -333,7 +335,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Kumo Translation | [Kumo Translation](https://comick.dev/group/kumo-translation) | [https://mangadex.org/group/77dd0233-ec2f-4820-bb0a-9b28c929c9aa/kumo-translation](https://mangadex.org/group/77dd0233-ec2f-4820-bb0a-9b28c929c9aa/kumo-translation) |
 | KuroianScan | [KuroianScan](https://comick.dev/group/kuroian-scan) | [https://mangadex.org/group/0d9e4256-f7e8-4f8a-8fc7-12bb4909d5f7/kuroianscan](https://mangadex.org/group/0d9e4256-f7e8-4f8a-8fc7-12bb4909d5f7/kuroianscan) |
 | Kyakka | [Kyakka](https://comick.dev/group/kyakka-jxkazpfs) | [https://kyakka-scans.blogspot.com/](https://kyakka-scans.blogspot.com/) |
-| Kyukuji7 eng | [Kyukuji7 eng](https://comick.dev/group/kyukuji7-eng) | [https://ko-fi.com/kyukuji7](https://ko-fi.com/kyukuji7) |
+| Kyukuji7 | [Kyukuji7](https://comick.dev/group/kyukuji7-eng) | [https://ko-fi.com/kyukuji7](https://ko-fi.com/kyukuji7) |
 | Kyuukei | [Kyuukei](https://comick.dev/group/kyuukei) | [https://kyuukei.mangadex.com/](https://kyuukei.mangadex.com/) |
 | L1v's Translations | [L1v's Translations](https://comick.dev/group/l1v-s-translations) | [https://mangadex.org/group/863d291f-75f2-459f-bae5-73f0260c1162/l1v-s-translations](https://mangadex.org/group/863d291f-75f2-459f-bae5-73f0260c1162/l1v-s-translations) |
 | Lagoonscans | [Lagoonscans](https://comick.dev/group/lagoonscans) | [https://lagoonscans.com](https://lagoonscans.com) |
@@ -458,6 +460,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | NO DHL | [NO DHL](https://comick.dev/group/no-dhl) | [https://mangadex.org/group/79c605de-720c-4fb4-a55b-ca98e5cf29f5/no-dhl](https://mangadex.org/group/79c605de-720c-4fb4-a55b-ca98e5cf29f5/no-dhl) |
 | No Group Scanlation | [No Group Scanlation](https://comick.dev/group/no-group-scanlation) | [https://mangadex.org/group/2716/no-group-scanlation](https://mangadex.org/group/2716/no-group-scanlation) |
 | No Pressure Scans | [No Pressure Scans](https://comick.dev/group/no-pressure-scans) | [https://mangadex.org/group/13539/bc-scans](https://mangadex.org/group/13539/bc-scans) |
+| Nocturnal Yuri | [Nocturnal Yuri](https://comick.dev/group/nocturnal-yuri) | [https://mangadex.org/group/f5ecdf12-07e6-416b-b8a6-36bf48718f81/nocturnal-yuri](https://mangadex.org/group/f5ecdf12-07e6-416b-b8a6-36bf48718f81/nocturnal-yuri) |
 | nocturne scans | [nocturne scans](https://comick.dev/group/nocturne-scans) | [https://mangadex.org/group/14026/nocturne-scans](https://mangadex.org/group/14026/nocturne-scans) |
 | NON-STOP^^SCANS | [NON-STOP^^SCANS](https://comick.dev/group/non-stop-scans) | [https://www.nonstopscans.com/](https://www.nonstopscans.com/) |
 | North Node Scans | [North Node Scans](https://comick.dev/group/north-node-scans) | [https://mangadex.org/group/b0d772d9-3c58-4761-8e35-16ff9fd2fecd/north-node-scans](https://mangadex.org/group/b0d772d9-3c58-4761-8e35-16ff9fd2fecd/north-node-scans) |
@@ -616,6 +619,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Striptease | [Striptease](https://comick.dev/group/striptease) | [https://mangadex.org/group/6222/striptease](https://mangadex.org/group/6222/striptease) |
 | Studio NEET | [Studio NEET](https://comick.dev/group/studio-neet) | [https://mangadex.org/group/18306/studio-neet](https://mangadex.org/group/18306/studio-neet) |
 | Study group | [Study group](https://comick.dev/group/study-group) | [https://mm-scans.com/](https://mm-scans.com/) |
+| SuloppaTL | [SuloppaTL](https://comick.dev/group/suloppa-tl) | [https://mangadex.org/group/db14c1ca-7e65-4893-b9f1-5191559a544d/suloppatl](https://mangadex.org/group/db14c1ca-7e65-4893-b9f1-5191559a544d/suloppatl) |
 | Sunflower Patch | [Sunflower Patch](https://comick.dev/group/sunflower-patch) | [https://mangadex.org/group/213f6c3b-e9c1-4fac-95f2-42b55d814998/sunflower-patch](https://mangadex.org/group/213f6c3b-e9c1-4fac-95f2-42b55d814998/sunflower-patch) |
 | Sunny Side Up Scans | [Sunny Side Up Scans](https://comick.dev/group/sunny-side-up-scans) | [https://mangadex.org/group/15084/sunny-side-up-scans](https://mangadex.org/group/15084/sunny-side-up-scans) |
 | Surya Scans | [Surya Scans](https://comick.dev/group/surya-scansqnXP) | [https://suryatoon.com/](https://suryatoon.com/) |
@@ -748,6 +752,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Crystal Blitz | [Crystal Blitz](https://comick.dev/group/crystal-blitz) | — |
 | CulR | [CulR](https://comick.dev/group/cul-r) | — |
 | Gonek | [Gonek](https://comick.dev/group/gonek) | — |
+| Hades Scans | [Hades Scans](https://comick.dev/group/hades-scans-2) | — |
 | Heavenly Demon Scans | [Heavenly Demon Scans](https://comick.dev/group/heavenly-demon-scans) | — |
 | kaiscans | [kaiscans](https://comick.dev/group/kaiscans) | — |
 | Lacuna Scans | [Lacuna Scans](https://comick.dev/group/lacuna-scans) | — |
@@ -755,6 +760,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | NeitheYAGI | [NeitheYAGI](https://comick.dev/group/neithe-yagi) | — |
 | no group | [no group](https://comick.dev/group/no-group) | — |
 | Official | [Official](https://comick.dev/group/official) | — |
+| Scythescans | [Scythescans](https://comick.dev/group/scythescans) | — |
 | Unknown | [Unknown](https://comick.dev/group/unknown) | — |
 | WEBTOON (Ex-Licenses) | [WEBTOON (Ex-Licenses)](https://comick.dev/group/line-webtoon-ex-licenses) | — |
 | White Crow Scans | [White Crow Scans](https://comick.dev/group/white-crow-scans) | — |
