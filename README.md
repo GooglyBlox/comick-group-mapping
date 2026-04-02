@@ -6,8 +6,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 734
-- **Mapped**: 716
+- **Total Groups**: 735
+- **Mapped**: 717
 - **Unmapped**: 18
 
 ## How to Contribute
@@ -174,6 +174,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Easy Going Scans | [Easy Going Scans](https://comick.dev/group/easy-going-scans-jxfsfn0x) | [https://easygoingscans.com/](https://easygoingscans.com/) |
 | Ecchi Brothers | [Ecchi Brothers](https://comick.dev/group/ecchi-brothers) | [https://mangadex.org/group/10823/ecchi-brothers](https://mangadex.org/group/10823/ecchi-brothers) |
 | Ecchi No Doujinshi Scans | [Ecchi No Doujinshi Scans](https://comick.dev/group/ecchi-no-doujinshi-scans) | [https://mangadex.org/group/155d7139-8d9a-49eb-bceb-d5e26db08b72/ecchi-no-doujinshi-scans](https://mangadex.org/group/155d7139-8d9a-49eb-bceb-d5e26db08b72/ecchi-no-doujinshi-scans) |
+| Ecchilada | [Ecchilada](https://comick.dev/group/ecchilada) | [https://mangadex.org/group/e8b94d58-8228-4463-9628-50913ab45440/ecchilada](https://mangadex.org/group/e8b94d58-8228-4463-9628-50913ab45440/ecchilada) |
 | Edelgarde Scans | [Edelgarde Scans](https://comick.dev/group/edelgarde-scans) | [https://edelgardescans.com/home](https://edelgardescans.com/home) |
 | EEZZEEScan | [EEZZEEScan](https://comick.dev/group/eezzee-scan) | [https://mangadex.org/group/0801f8ed-b1ed-477f-8e78-11778078fa70/eezzeescan](https://mangadex.org/group/0801f8ed-b1ed-477f-8e78-11778078fa70/eezzeescan) |
 | Eidetic Memoscans | [Eidetic Memoscans](https://comick.dev/group/eidetic-memoscans) | [https://eidetic.tk/](https://eidetic.tk/) |
