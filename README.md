@@ -6,9 +6,9 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 735
-- **Mapped**: 717
-- **Unmapped**: 18
+- **Total Groups**: 738
+- **Mapped**: 719
+- **Unmapped**: 19
 
 ## How to Contribute
 
@@ -284,6 +284,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | INK Scans | [INK Scans](https://comick.dev/group/ink-scans) | [https://mangadex.org/group/bcfbedbd-ffb9-4fc6-8f48-6d132e96b573/ink-scans](https://mangadex.org/group/bcfbedbd-ffb9-4fc6-8f48-6d132e96b573/ink-scans) |
 | Inked Scans | [Inked Scans](https://comick.dev/group/inked-scans) | [https://mangadex.org/group/61ac0899-e2c2-4458-8b7b-f4f936fde6cb/inked-scans](https://mangadex.org/group/61ac0899-e2c2-4458-8b7b-f4f936fde6cb/inked-scans) |
 | INKR Comics | [INKR Comics](https://comick.dev/group/inkr-comics) | [https://inkr.com/](https://inkr.com/) |
+| InReality Translations | [InReality Translations](https://comick.dev/group/in-reality-translations) | [https://mangadex.org/group/8668b91c-3644-4c1f-bfb0-48a4926a6e04/inreality-translations](https://mangadex.org/group/8668b91c-3644-4c1f-bfb0-48a4926a6e04/inreality-translations) |
 | Irrelevant Scans | [Irrelevant Scans](https://comick.dev/group/irrelevant-scans) | [https://mangadex.org/group/4aeb95c3-4dd7-480f-a8fd-795703ab190a/irrelevant-scans](https://mangadex.org/group/4aeb95c3-4dd7-480f-a8fd-795703ab190a/irrelevant-scans) |
 | It's My First Translations | [It's My First Translations](https://comick.dev/group/it-s-my-first-translations) | [https://mangadex.org/group/82d1e153-738a-4ed5-96db-e535809f452c/it-s-my-first-translations](https://mangadex.org/group/82d1e153-738a-4ed5-96db-e535809f452c/it-s-my-first-translations) |
 | JagaaaaaanScans | [JagaaaaaanScans](https://comick.dev/group/jagaaaaaan-scans) | [https://mangadex.org/group/10473/jagaaaaaanscans](https://mangadex.org/group/10473/jagaaaaaanscans) |
@@ -633,6 +634,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | TangPing Scanlations | [TangPing Scanlations](https://comick.dev/group/tang-ping-scanlations) | [https://comick.io/group/tang-ping-scanlations](https://comick.io/group/tang-ping-scanlations) |
 | Tanzanite Scans | [Tanzanite Scans](https://comick.dev/group/tanzanite-scans) | [https://mangadex.org/group/3850/tanzanitexd](https://mangadex.org/group/3850/tanzanitexd) |
 | Tapas | [Tapas](https://comick.dev/group/tapas) | [https://tapas.io/](https://tapas.io/) |
+| TappyToon | [TappyToon](https://comick.dev/group/tappytoon) | [https://www.tappytoon.com](https://www.tappytoon.com) |
 | Tarnished | [Tarnished](https://comick.dev/group/tarnished) | [https://mangadex.org/group/13131bf5-1ab1-4fc1-be82-c08e9008a539/tarnished](https://mangadex.org/group/13131bf5-1ab1-4fc1-be82-c08e9008a539/tarnished) |
 | TCB Scans | [TCB Scans](https://comick.dev/group/tcb-scans) | [https://tcbonepiecechapters.com/](https://tcbonepiecechapters.com/) |
 | Te/α | [Te/α](https://comick.dev/group/te-a) | [https://mangadex.org/group/c96dd5ab-ffaf-4379-8955-7434921b880e](https://mangadex.org/group/c96dd5ab-ffaf-4379-8955-7434921b880e) |
@@ -755,6 +757,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Gonek | [Gonek](https://comick.dev/group/gonek) | — |
 | Hades Scans | [Hades Scans](https://comick.dev/group/hades-scans-2) | — |
 | Heavenly Demon Scans | [Heavenly Demon Scans](https://comick.dev/group/heavenly-demon-scans) | — |
+| HighserkTomorrow | [HighserkTomorrow](https://comick.dev/group/highserk-tomorrow) | — |
 | kaiscans | [kaiscans](https://comick.dev/group/kaiscans) | — |
 | Lacuna Scans | [Lacuna Scans](https://comick.dev/group/lacuna-scans) | — |
 | Lezhin (Ex-Licenses) | [Lezhin (Ex-Licenses)](https://comick.dev/group/lezhin-ex-licenses) | — |
