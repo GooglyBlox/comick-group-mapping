@@ -6,8 +6,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 738
-- **Mapped**: 724
+- **Total Groups**: 740
+- **Mapped**: 726
 - **Unmapped**: 14
 
 ## How to Contribute
@@ -192,6 +192,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Erscans | [Erscans](https://comick.dev/group/erscans) | [https://mangadex.org/group/6f41bbde-9d25-4530-820b-d7f2fabc40a0/erscans](https://mangadex.org/group/6f41bbde-9d25-4530-820b-d7f2fabc40a0/erscans) |
 | Esoteric Scans | [Esoteric Scans](https://comick.dev/group/esoteric-scans) | [https://mangadex.org/group/0a5757c0-e5c4-4cf7-a458-faa623222220/esoteric-scans](https://mangadex.org/group/0a5757c0-e5c4-4cf7-a458-faa623222220/esoteric-scans) |
 | Eternum Scans | [Eternum Scans](https://comick.dev/group/eternum-scans) | [https://mangadex.org/group/ece0a054-3d0e-41a1-99bc-523966e59653/eternum-scans](https://mangadex.org/group/ece0a054-3d0e-41a1-99bc-523966e59653/eternum-scans) |
+| EVA-SCANS | [EVA-SCANS](https://comick.dev/group/eva-scansbez9) | [https://evascans.org/](https://evascans.org/) |
 | ExP Scans | [ExP Scans](https://comick.dev/group/ex-p-scans) | [https://mangadex.org/group/b73d52e0-fabd-4f7f-91c2-1d26619493de/exp-scans](https://mangadex.org/group/b73d52e0-fabd-4f7f-91c2-1d26619493de/exp-scans) |
 | ExtraScans | [ExtraScans](https://comick.dev/group/extra-scansuCup) | [https://extrascans.com](https://extrascans.com) |
 | Ezmanga | [Ezmanga](https://comick.dev/group/raider-scans) | [https://ezmanga.org](https://ezmanga.org) |
@@ -483,6 +484,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Odd Stuff | [Odd Stuff](https://comick.dev/group/odd-stuff) | [https://mangadex.org/group/bf6fd88e-fe0d-4309-8d00-624cd6475cb8/odd-stuff](https://mangadex.org/group/bf6fd88e-fe0d-4309-8d00-624cd6475cb8/odd-stuff) |
 | Oddity Translations | [Oddity Translations](https://comick.dev/group/oddity-translations) | [https://mangadex.org/group/4d97fe03-5df6-4aef-a35c-80fe1a328da1/oddity-translations](https://mangadex.org/group/4d97fe03-5df6-4aef-a35c-80fe1a328da1/oddity-translations) |
 | oh hi :D | [oh hi :D](https://comick.dev/group/oh-hi-d) | [https://mangadex.org/group/add42b8b-f10e-4542-a3f8-3c05258920f7/oh-hi-d](https://mangadex.org/group/add42b8b-f10e-4542-a3f8-3c05258920f7/oh-hi-d) |
+| OmegaScans | [OmegaScans](https://comick.dev/group/omega-scansHGsw) | [https://omegascans.org/](https://omegascans.org/) |
 | On A Whim | [On A Whim](https://comick.dev/group/on-a-whim) | [https://mangadex.org/group/1d03b090-d028-4fe1-b3c6-5877a835701e/on-a-whim](https://mangadex.org/group/1d03b090-d028-4fe1-b3c6-5877a835701e/on-a-whim) |
 | Once Upon A Dreamland | [Once Upon A Dreamland](https://comick.dev/group/once-upon-a-dreamland) | [https://mangadex.org/group/10794/once-upon-a-dreamland](https://mangadex.org/group/10794/once-upon-a-dreamland) |
 | OP Scans | [OP Scans](https://comick.dev/group/opscans) | [https://opscans.com/](https://opscans.com/) |
