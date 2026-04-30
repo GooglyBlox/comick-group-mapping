@@ -6,8 +6,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 740
-- **Mapped**: 726
+- **Total Groups**: 742
+- **Mapped**: 728
 - **Unmapped**: 14
 
 ## How to Contribute
@@ -205,6 +205,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Fe Scans | [Fe Scans](https://comick.dev/group/fe-scans) | [https://fescans.mangadex.com/](https://fescans.mangadex.com/) |
 | Fearlessblue | [Fearlessblue](https://comick.dev/group/fearlessblue) | [https://mangadex.org/group/571aed87-ae7d-4399-b423-5e1f022b8cf4/fearlessblue](https://mangadex.org/group/571aed87-ae7d-4399-b423-5e1f022b8cf4/fearlessblue) |
 | Fettyman Scans | [Fettyman Scans](https://comick.dev/group/fettyman-scans) | [https://mangadex.org/group/92f12c2a-188c-4e2f-b8ac-2c8419580d69/fettyman-scans](https://mangadex.org/group/92f12c2a-188c-4e2f-b8ac-2c8419580d69/fettyman-scans) |
+| FFTranslations | [FFTranslations](https://comick.dev/group/ff-translations) | [https://linktr.ee/ffemporium](https://linktr.ee/ffemporium) |
 | Fire Syndicate | [Fire Syndicate](https://comick.dev/group/fire-syndicate) | [https://firesyndicate.mangadex.com/](https://firesyndicate.mangadex.com/) |
 | FireScans | [FireScans](https://comick.dev/group/fire-scans) | [https://firescans.xyz](https://firescans.xyz) |
 | First Division Scanlations | [First Division Scanlations](https://comick.dev/group/first-division-scanlations) | [https://mangadex.org/group/10588/first-division-scanlations](https://mangadex.org/group/10588/first-division-scanlations) |
@@ -406,8 +407,8 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | ManhuaFast | [ManhuaFast](https://comick.dev/group/manhuafast) | [https://manhuafast.net/](https://manhuafast.net/) |
 | Manhuaga | [Manhuaga](https://comick.dev/group/manhuaga) | [https://manhuaga.com/](https://manhuaga.com/) |
 | Manhuagold Scan | [Manhuagold Scan](https://comick.dev/group/manhuagold-scan) | [https://manhuagold.top/home](https://manhuagold.top/home) |
-| Manhuanext | [Manhuanext](https://comick.dev/group/manhuanext-com) | [https://manhuanext.com/](https://manhuanext.com/) |
 | ManhuaNext | [ManhuaNext](https://comick.dev/group/manhua-next) | [https://manhuanext.com/](https://manhuanext.com/) |
+| Manhuanext.com | [Manhuanext.com](https://comick.dev/group/manhuanext-com) | [https://manhuanext.com/](https://manhuanext.com/) |
 | Manhwa Clan | [Manhwa Clan](https://comick.dev/group/manhwaclan) | [https://manhwaclan.com](https://manhwaclan.com) |
 | ManhwaFreak | [ManhwaFreak](https://comick.dev/group/manhwa-freak) | [https://manhwa-freak.org/](https://manhwa-freak.org/) |
 | Mascarada | [Mascarada](https://comick.dev/group/mascarada) | [https://mangadex.org/group/a87eb04b-6fde-4cc5-bad0-22f1566e366b/mascarada](https://mangadex.org/group/a87eb04b-6fde-4cc5-bad0-22f1566e366b/mascarada) |
@@ -667,6 +668,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Theoretical Degree Scans | [Theoretical Degree Scans](https://comick.dev/group/theoretical-degree-scans) | [https://mangadex.org/group/10336/theoretical-degree-scans](https://mangadex.org/group/10336/theoretical-degree-scans) |
 | TheParacite | [TheParacite](https://comick.dev/group/the-paracite) | [https://mangadex.org/group/7d6d0942-e79e-49c1-9d3f-b6025b1538be/theparacite](https://mangadex.org/group/7d6d0942-e79e-49c1-9d3f-b6025b1538be/theparacite) |
 | ThePervertedScanner | [ThePervertedScanner](https://comick.dev/group/the-perverted-scanner) | [https://mangadex.org/group/17681/thepervertedscanner](https://mangadex.org/group/17681/thepervertedscanner) |
+| Therian scan | [Therian scan](https://comick.dev/group/therian-scan) | [https://mangadex.org/group/b75b4461-6850-4a05-a9a8-c84f36b4a75d/therian-scan](https://mangadex.org/group/b75b4461-6850-4a05-a9a8-c84f36b4a75d/therian-scan) |
 | theslavegroup | [theslavegroup](https://comick.dev/group/theslavegroup) | [https://mangadex.org/group/b2eb9830-3fa7-4fc1-8af4-4587f8e2e802/theslavegroup](https://mangadex.org/group/b2eb9830-3fa7-4fc1-8af4-4587f8e2e802/theslavegroup) |
 | TheSpinyBackTeam | [TheSpinyBackTeam](https://comick.dev/group/the-spiny-back-team) | [https://mangadex.org/group/444b7276-d3d2-4328-862a-149e22c280a1/thespinybackteam](https://mangadex.org/group/444b7276-d3d2-4328-862a-149e22c280a1/thespinybackteam) |
 | Thunderscans | [Thunderscans](https://comick.dev/group/ozulscans) | [https://en-thunderscans.com](https://en-thunderscans.com) |
