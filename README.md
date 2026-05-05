@@ -407,8 +407,8 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | ManhuaFast | [ManhuaFast](https://comick.dev/group/manhuafast) | [https://manhuafast.net/](https://manhuafast.net/) |
 | Manhuaga | [Manhuaga](https://comick.dev/group/manhuaga) | [https://manhuaga.com/](https://manhuaga.com/) |
 | Manhuagold Scan | [Manhuagold Scan](https://comick.dev/group/manhuagold-scan) | [https://manhuagold.top/home](https://manhuagold.top/home) |
+| Manhuanext | [Manhuanext](https://comick.dev/group/manhuanext-com) | [https://manhuanext.com/](https://manhuanext.com/) |
 | ManhuaNext | [ManhuaNext](https://comick.dev/group/manhua-next) | [https://manhuanext.com/](https://manhuanext.com/) |
-| Manhuanext.com | [Manhuanext.com](https://comick.dev/group/manhuanext-com) | [https://manhuanext.com/](https://manhuanext.com/) |
 | Manhwa Clan | [Manhwa Clan](https://comick.dev/group/manhwaclan) | [https://manhwaclan.com](https://manhwaclan.com) |
 | ManhwaFreak | [ManhwaFreak](https://comick.dev/group/manhwa-freak) | [https://manhwa-freak.org/](https://manhwa-freak.org/) |
 | Mascarada | [Mascarada](https://comick.dev/group/mascarada) | [https://mangadex.org/group/a87eb04b-6fde-4cc5-bad0-22f1566e366b/mascarada](https://mangadex.org/group/a87eb04b-6fde-4cc5-bad0-22f1566e366b/mascarada) |
@@ -478,7 +478,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | nyan-skan | [nyan-skan](https://comick.dev/group/nyan-skan) | [https://mangadex.org/group/cc6f4ee8-c1a5-4f7f-b4c9-ddeceb2a21aa/nyan-skan](https://mangadex.org/group/cc6f4ee8-c1a5-4f7f-b4c9-ddeceb2a21aa/nyan-skan) |
 | NyanuKafe | [NyanuKafe](https://comick.dev/group/nyanu-kafe) | [https://nyanukafe.com/](https://nyanukafe.com/) |
 | Nyctophilia Scans | [Nyctophilia Scans](https://comick.dev/group/the-phantomhives) | [https://mangadex.org/group/ee63f8fb-f5c1-4f61-acb4-d0e707cff218/nyctophilia-scans](https://mangadex.org/group/ee63f8fb-f5c1-4f61-acb4-d0e707cff218/nyctophilia-scans) |
-| nyxscans | [nyxscans](https://comick.dev/group/nyxscans) | [https://nyxscans.com](https://nyxscans.com) |
+| Nyx Scans | [Nyx Scans](https://comick.dev/group/nyxscans) | [https://nyxscans.com](https://nyxscans.com) |
 | O TRANSLATIONS | [O TRANSLATIONS](https://comick.dev/group/o-translations) | [https://mangadex.org/group/7da6e580-82be-49a0-a148-b0052ad1b2e3/o-translations](https://mangadex.org/group/7da6e580-82be-49a0-a148-b0052ad1b2e3/o-translations) |
 | Oayo TL | [Oayo TL](https://comick.dev/group/oayo-tl) | [https://oayo.ink/manga_post/](https://oayo.ink/manga_post/) |
 | obsoletezero | [obsoletezero](https://comick.dev/group/obsoletezero-jx04mllu) | [https://mangadex.org/group/5822/obsoletezero](https://mangadex.org/group/5822/obsoletezero) |
