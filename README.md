@@ -407,8 +407,8 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | ManhuaFast | [ManhuaFast](https://comick.dev/group/manhuafast) | [https://manhuafast.net/](https://manhuafast.net/) |
 | Manhuaga | [Manhuaga](https://comick.dev/group/manhuaga) | [https://manhuaga.com/](https://manhuaga.com/) |
 | Manhuagold Scan | [Manhuagold Scan](https://comick.dev/group/manhuagold-scan) | [https://manhuagold.top/home](https://manhuagold.top/home) |
+| Manhuanext | [Manhuanext](https://comick.dev/group/manhuanext-com) | [https://manhuanext.com/](https://manhuanext.com/) |
 | ManhuaNext | [ManhuaNext](https://comick.dev/group/manhua-next) | [https://manhuanext.com/](https://manhuanext.com/) |
-| Manhuanext.com | [Manhuanext.com](https://comick.dev/group/manhuanext-com) | [https://manhuanext.com/](https://manhuanext.com/) |
 | Manhwa Clan | [Manhwa Clan](https://comick.dev/group/manhwaclan) | [https://manhwaclan.com](https://manhwaclan.com) |
 | ManhwaFreak | [ManhwaFreak](https://comick.dev/group/manhwa-freak) | [https://manhwa-freak.org/](https://manhwa-freak.org/) |
 | Mascarada | [Mascarada](https://comick.dev/group/mascarada) | [https://mangadex.org/group/a87eb04b-6fde-4cc5-bad0-22f1566e366b/mascarada](https://mangadex.org/group/a87eb04b-6fde-4cc5-bad0-22f1566e366b/mascarada) |
