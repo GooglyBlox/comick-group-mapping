@@ -420,6 +420,11 @@
     "url": "https://mangadex.org/group/3043/boredom-society-scanlations"
   },
   {
+    "title": "BrainrotComics",
+    "slug": "brainrot-comics",
+    "url": ""
+  },
+  {
     "title": "Brick",
     "slug": "brick",
     "url": "https://mangadex.org/group/feae61ea-d5fc-470f-ab78-1bdfc8c6866f/brick"
@@ -1103,6 +1108,11 @@
     "title": "GreedScans",
     "slug": "greed-scans-_XsL",
     "url": "https://greedscans.com"
+  },
+  {
+    "title": "Grodex Tantrums",
+    "slug": "gr-scans",
+    "url": "https://mangadex.org/group/157bb6fc-865e-4981-a049-73eca0018c95/grodex-tantrums"
   },
   {
     "title": "Group 01000001",
@@ -2175,6 +2185,11 @@
     "url": "https://mangadex.org/group/493db93e-66dd-4858-9c8e-b9d0c185775c/namensideenlos-scanlations"
   },
   {
+    "title": "NamiComi",
+    "slug": "nami-comi",
+    "url": "https://namicomi.com"
+  },
+  {
     "title": "Nato 012 Fansub",
     "slug": "nato-012-fansub",
     "url": "https://allmylinks.com/nato012fansub"
@@ -2315,7 +2330,7 @@
     "url": "https://mangadex.org/group/ee63f8fb-f5c1-4f61-acb4-d0e707cff218/nyctophilia-scans"
   },
   {
-    "title": "Nyx Scans",
+    "title": "nyxscans",
     "slug": "nyxscans",
     "url": "https://nyxscans.com"
   },
@@ -2408,6 +2423,11 @@
     "title": "Overthink Scans",
     "slug": "overthink-scans",
     "url": "https://mangadex.org/group/ab1561cf-b644-41ce-8231-746e0bd02779/overthink-scans"
+  },
+  {
+    "title": "PAK Scans",
+    "slug": "pak-scans",
+    "url": "https://mangadex.org/group/f70a75a0-175b-4664-8915-8ddc459e86d6/pak-scans"
   },
   {
     "title": "Paragon Scans",
@@ -3638,6 +3658,11 @@
     "title": "Xo manga",
     "slug": "xo-manga",
     "url": "https://xomanga.blogspot.com/"
+  },
+  {
+    "title": "Xscans",
+    "slug": "xscans",
+    "url": "https://xscans.site/"
   },
   {
     "title": "XuN",
