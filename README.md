@@ -6,9 +6,9 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 747
-- **Mapped**: 732
-- **Unmapped**: 15
+- **Total Groups**: 751
+- **Mapped**: 735
+- **Unmapped**: 16
 
 ## How to Contribute
 
@@ -133,6 +133,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Cookie Jar | [Cookie Jar](https://comick.dev/group/cookie-jar) | [https://mangadex.org/group/18182/cookie-jar](https://mangadex.org/group/18182/cookie-jar) |
 | Cosmic Scans | [Cosmic Scans](https://comick.dev/group/cosmic-scans) | [https://cosmic-scans.com/](https://cosmic-scans.com/) |
 | Crab bars | [Crab bars](https://comick.dev/group/crab-bars) | [https://mangadex.org/group/c90c8b2d-46b0-4047-b6a9-9719599793bf/crab-bars](https://mangadex.org/group/c90c8b2d-46b0-4047-b6a9-9719599793bf/crab-bars) |
+| CrowScans | [CrowScans](https://comick.dev/group/crow-scans-kg11dhec) | [https://mangadex.org/group/13264/crowscans](https://mangadex.org/group/13264/crowscans) |
 | Cryminals Syndicate | [Cryminals Syndicate](https://comick.dev/group/cryminals-syndicate) | [https://mangadex.org/group/0ca9a156-db17-440e-9412-303992b15ffc/cryminals-syndicate](https://mangadex.org/group/0ca9a156-db17-440e-9412-303992b15ffc/cryminals-syndicate) |
 | Crystal Blitz | [Crystal Blitz](https://comick.dev/group/crystal-blitz) | [https://twitter.com/blitz_crystal](https://twitter.com/blitz_crystal) |
 | Cuddlebuns | [Cuddlebuns](https://comick.dev/group/cuddlebuns) | [https://mangadex.org/group/06b64348-a3f8-4177-8b46-708cf9f11c12/cuddlebuns](https://mangadex.org/group/06b64348-a3f8-4177-8b46-708cf9f11c12/cuddlebuns) |
@@ -157,6 +158,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Demon Clan | [Demon Clan](https://comick.dev/group/demon-clan) | [https://mangadex.org/group/13613/demon-clan](https://mangadex.org/group/13613/demon-clan) |
 | Demon Scanlations | [Demon Scanlations](https://comick.dev/group/demon-scanlations) | [https://demonscans.com/](https://demonscans.com/) |
 | Demon Sect | [Demon Sect](https://comick.dev/group/prisma-scan) | [https://web.archive.org/web/20240106225730/https://demonsect.com.br/](https://web.archive.org/web/20240106225730/https://demonsect.com.br/) |
+| Demonic Scanlations | [Demonic Scanlations](https://comick.dev/group/demonic-scanlations) | [https://www.mangaupdates.com/groups.html?id=6402](https://www.mangaupdates.com/groups.html?id=6402) |
 | Demonic Scans | [Demonic Scans](https://comick.dev/group/demonic-scans) | [https://demonicscans.org](https://demonicscans.org) |
 | DEMONRAGE Scans | [DEMONRAGE Scans](https://comick.dev/group/demonrage-scans) | [https://mangadex.org/group/16881/demonrage-scans](https://mangadex.org/group/16881/demonrage-scans) |
 | DFlow Scans | [DFlow Scans](https://comick.dev/group/d-flow-scans) | [http://dflow.alwaysdata.net/](http://dflow.alwaysdata.net/) |
@@ -564,6 +566,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Ryu Manga [ENG] | [Ryu Manga [ENG]](https://comick.dev/group/ryu-manga-eng) | [https://ryumanga.org/](https://ryumanga.org/) |
 | s. D. g. scans | [s. D. g. scans](https://comick.dev/group/s-d-g-scans) | [https://mangadex.org/group/a75dc5e7-ba57-4d5f-bb01-a76a3691d0ab/s-d-g-scans](https://mangadex.org/group/a75dc5e7-ba57-4d5f-bb01-a76a3691d0ab/s-d-g-scans) |
 | Sabai Dee Group | [Sabai Dee Group](https://comick.dev/group/sabai-dee-group) | [https://mangadex.org/group/ba9abd89-b8a7-462f-89b7-204dc988c18c/sabai-dee-group](https://mangadex.org/group/ba9abd89-b8a7-462f-89b7-204dc988c18c/sabai-dee-group) |
+| SACACHISPA SCANLATION | [SACACHISPA SCANLATION](https://comick.dev/group/sacachispa-scanlation) | [https://mangadex.org/group/2b58d703-a18b-41c3-aa6f-b7ae528eda90/sacachispa-scanlation](https://mangadex.org/group/2b58d703-a18b-41c3-aa6f-b7ae528eda90/sacachispa-scanlation) |
 | SaebaScans | [SaebaScans](https://comick.dev/group/saeba-scans) | [https://ko-fi.com/yourownsquare](https://ko-fi.com/yourownsquare) |
 | Salty Witches co. | [Salty Witches co.](https://comick.dev/group/salty-witches-co) | [https://mangadex.org/group/15974/salty-witches-co](https://mangadex.org/group/15974/salty-witches-co) |
 | Sappho Scans | [Sappho Scans](https://comick.dev/group/sappho-scans) | [https://mangadex.org/group/a7e9deb5-85e4-4f27-951a-0d2e50c1001a/](https://mangadex.org/group/a7e9deb5-85e4-4f27-951a-0d2e50c1001a/) |
@@ -774,6 +777,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | NeitheYAGI | [NeitheYAGI](https://comick.dev/group/neithe-yagi) | — |
 | no group | [no group](https://comick.dev/group/no-group) | — |
 | Official | [Official](https://comick.dev/group/official) | — |
+| The Koi pond. | [The Koi pond.](https://comick.dev/group/the-koi-pond) | — |
 | Unknown | [Unknown](https://comick.dev/group/unknown) | — |
 | WEBTOON (Ex-Licenses) | [WEBTOON (Ex-Licenses)](https://comick.dev/group/line-webtoon-ex-licenses) | — |
 | White Crow Scans | [White Crow Scans](https://comick.dev/group/white-crow-scans) | — |
