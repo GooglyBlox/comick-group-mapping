@@ -6,9 +6,9 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 751
+- **Total Groups**: 754
 - **Mapped**: 735
-- **Unmapped**: 16
+- **Unmapped**: 19
 
 ## How to Contribute
 
@@ -769,12 +769,15 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Aurora | [Aurora](https://comick.dev/group/aurora) | — |
 | BrainrotComics | [BrainrotComics](https://comick.dev/group/brainrot-comics) | — |
 | Colored Manga | [Colored Manga](https://comick.dev/group/colored-manga) | — |
+| Crow Scanlation | [Crow Scanlation](https://comick.dev/group/crow-scanlation) | — |
+| Daycomics | [Daycomics](https://comick.dev/group/daycomics) | — |
 | Gonek | [Gonek](https://comick.dev/group/gonek) | — |
 | Heavenly Demon Scans | [Heavenly Demon Scans](https://comick.dev/group/heavenly-demon-scans) | — |
 | HighserkTomorrow | [HighserkTomorrow](https://comick.dev/group/highserk-tomorrow) | — |
 | kaiscans | [kaiscans](https://comick.dev/group/kaiscans) | — |
 | Lezhin (Ex-Licenses) | [Lezhin (Ex-Licenses)](https://comick.dev/group/lezhin-ex-licenses) | — |
 | NeitheYAGI | [NeitheYAGI](https://comick.dev/group/neithe-yagi) | — |
+| News | [News](https://comick.dev/group/news) | — |
 | no group | [no group](https://comick.dev/group/no-group) | — |
 | Official | [Official](https://comick.dev/group/official) | — |
 | The Koi pond. | [The Koi pond.](https://comick.dev/group/the-koi-pond) | — |
