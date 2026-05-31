@@ -6,8 +6,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 754
-- **Mapped**: 735
+- **Total Groups**: 757
+- **Mapped**: 738
 - **Unmapped**: 19
 
 ## How to Contribute
@@ -498,6 +498,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | orangescans | [orangescans](https://comick.dev/group/orangescans) | [https://mangadex.org/group/9915/orangescans](https://mangadex.org/group/9915/orangescans) |
 | Orbis Alius | [Orbis Alius](https://comick.dev/group/twintail-tengoku) | [https://mangadex.org/group/7fe4a593-408b-43b7-aa6d-1df373afe0f6/orbis-alius](https://mangadex.org/group/7fe4a593-408b-43b7-aa6d-1df373afe0f6/orbis-alius) |
 | Orchid of the Moon | [Orchid of the Moon](https://comick.dev/group/orchid-of-the-moon) | [https://mangadex.org/group/16567/orchid-of-the-moon](https://mangadex.org/group/16567/orchid-of-the-moon) |
+| Orionscans | [Orionscans](https://comick.dev/group/orionscans) | [https://orion-scans.com/](https://orion-scans.com/) |
 | OtaGal Scanlation | [OtaGal Scanlation](https://comick.dev/group/tradu-oskGtES) | [https://mangadex.org/group/bfb30a4e-2dbd-48a1-a007-f1cb3656f3af/otagal-scanlation](https://mangadex.org/group/bfb30a4e-2dbd-48a1-a007-f1cb3656f3af/otagal-scanlation) |
 | Overthink Scans | [Overthink Scans](https://comick.dev/group/overthink-scans) | [https://mangadex.org/group/ab1561cf-b644-41ce-8231-746e0bd02779/overthink-scans](https://mangadex.org/group/ab1561cf-b644-41ce-8231-746e0bd02779/overthink-scans) |
 | PAK Scans | [PAK Scans](https://comick.dev/group/pak-scans) | [https://mangadex.org/group/f70a75a0-175b-4664-8915-8ddc459e86d6/pak-scans](https://mangadex.org/group/f70a75a0-175b-4664-8915-8ddc459e86d6/pak-scans) |
@@ -578,6 +579,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Scan De baja Calidad De Cyka | [Scan De baja Calidad De Cyka](https://comick.dev/group/scan-de-baja-calidad-de-cyka) | [https://mangadex.org/group/e21ae39a-1a0f-47e1-80fe-0f7fbde06795/scan-de-baja-calidad-de-cyka](https://mangadex.org/group/e21ae39a-1a0f-47e1-80fe-0f7fbde06795/scan-de-baja-calidad-de-cyka) |
 | Schale scans | [Schale scans](https://comick.dev/group/schale-scans) | [https://mangadex.org/group/0a42a1d2-73fb-4b74-9ca7-7a8a2e30a0dc/schale-scans](https://mangadex.org/group/0a42a1d2-73fb-4b74-9ca7-7a8a2e30a0dc/schale-scans) |
 | Scienceyscans | [Scienceyscans](https://comick.dev/group/scienceyscans) | [https://mangadex.org/group/73eaded1-6311-4ca1-8dfe-5b8898aaf459/scienceyscans](https://mangadex.org/group/73eaded1-6311-4ca1-8dfe-5b8898aaf459/scienceyscans) |
+| Scribe's Chamber | [Scribe's Chamber](https://comick.dev/group/scribes-chamber) | [https://mangadex.org/group/e0d9ff91-cf07-4bd8-83c6-d406f7ae7b24/scribe-s-chamber](https://mangadex.org/group/e0d9ff91-cf07-4bd8-83c6-d406f7ae7b24/scribe-s-chamber) |
 | Scylla Scans | [Scylla Scans](https://comick.dev/group/scylla-scans) | [https://scyllacomics.xyz/](https://scyllacomics.xyz/) |
 | Scythescans | [Scythescans](https://comick.dev/group/scythescans) | [https://scythescans.com](https://scythescans.com) |
 | Secret Land Castle ★ | [Secret Land Castle ★](https://comick.dev/group/secret-land-castle) | [https://mangadex.org/group/7206/secret-land-castle](https://mangadex.org/group/7206/secret-land-castle) |
@@ -686,6 +688,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Tomoshibi scan | [Tomoshibi scan](https://comick.dev/group/tomoshibi-scan) | [https://mangadex.org/group/15221/tomoshibi-scan](https://mangadex.org/group/15221/tomoshibi-scan) |
 | Tonari No Scanlation | [Tonari No Scanlation](https://comick.dev/group/tonari-no-scanlation) | [https://mangadex.org/group/413](https://mangadex.org/group/413) |
 | Tonikaku Scans | [Tonikaku Scans](https://comick.dev/group/tonikaku-scans) | [https://mangadex.org/group/063cf1b0-9e25-495b-b234-296579a34496](https://mangadex.org/group/063cf1b0-9e25-495b-b234-296579a34496) |
+| Toomics | [Toomics](https://comick.dev/group/toomics) | [https://www.toomics.com/](https://www.toomics.com/) |
 | TOOR Scans | [TOOR Scans](https://comick.dev/group/toor-scans) | [https://mangadex.org/group/7150/toor-scans](https://mangadex.org/group/7150/toor-scans) |
 | ToruScans | [ToruScans](https://comick.dev/group/toru-scans) | [https://mangadex.org/group/69148b88-5740-434d-b62f-b67711ca490b/toruscans](https://mangadex.org/group/69148b88-5740-434d-b62f-b67711ca490b/toruscans) |
 | Translatione Ex Machina | [Translatione Ex Machina](https://comick.dev/group/translatione-ex-machina) | [https://mangadex.org/group/12514/translatione-ex-machina](https://mangadex.org/group/12514/translatione-ex-machina) |
