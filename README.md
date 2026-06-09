@@ -731,7 +731,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | We Need More Yankiis | [We Need More Yankiis](https://comick.dev/group/we-need-more-yankiis) | [https://mangadex.org/group/13557/we-need-more-yankiis](https://mangadex.org/group/13557/we-need-more-yankiis) |
 | Weather vane | [Weather vane](https://comick.dev/group/weather-vane) | [https://mangadex.org/group/16354/weather-vane](https://mangadex.org/group/16354/weather-vane) |
 | Webdex | [Webdex](https://comick.dev/group/webdex) | [https://webdexscans.com/](https://webdexscans.com/) |
-| WEBTOON | [WEBTOON](https://comick.dev/group/line-webtoon) | [https://www.webtoons.com](https://www.webtoons.com) |
+| Webtoon | [Webtoon](https://comick.dev/group/line-webtoon) | [https://www.webtoons.com](https://www.webtoons.com) |
 | Weeaboo Scans | [Weeaboo Scans](https://comick.dev/group/weeaboo-scans) | [https://www.mangaweeaboo.com/](https://www.mangaweeaboo.com/) |
 | WeScan | [WeScan](https://comick.dev/group/we-scan) | [http://www.wescans.xyz/](http://www.wescans.xyz/) |
 | West Egg Translations | [West Egg Translations](https://comick.dev/group/west-egg-translations) | [https://mangadex.org/group/4561/west-egg-translations](https://mangadex.org/group/4561/west-egg-translations) |
