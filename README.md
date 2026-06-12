@@ -6,8 +6,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 757
-- **Mapped**: 738
+- **Total Groups**: 759
+- **Mapped**: 740
 - **Unmapped**: 19
 
 ## How to Contribute
@@ -191,6 +191,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Emergency Tsumiki Committee | [Emergency Tsumiki Committee](https://comick.dev/group/emergency-tsumiki-committee) | [https://mangadex.org/group/e62b19b7-e4a2-4119-a7c3-31b1c278ea59/emergency-tsumiki-committee](https://mangadex.org/group/e62b19b7-e4a2-4119-a7c3-31b1c278ea59/emergency-tsumiki-committee) |
 | Eraser-kun Scans | [Eraser-kun Scans](https://comick.dev/group/eraser-kun-scans-jx2mnfb2) | [https://mangadex.org/group/363](https://mangadex.org/group/363) |
 | Eresh Scans | [Eresh Scans](https://comick.dev/group/eresh-scans) | [https://mangadex.org/group/e9dd0329-8fa8-4e31-9245-84dd00da3394/eresh-scans](https://mangadex.org/group/e9dd0329-8fa8-4e31-9245-84dd00da3394/eresh-scans) |
+| Eris Scans | [Eris Scans](https://comick.dev/group/eris-scans-new) | [https://mangadex.org/group/3ce782ba-bdd6-4044-a236-c48179b39598/eris-scans](https://mangadex.org/group/3ce782ba-bdd6-4044-a236-c48179b39598/eris-scans) |
 | Erscans | [Erscans](https://comick.dev/group/erscans) | [https://mangadex.org/group/6f41bbde-9d25-4530-820b-d7f2fabc40a0/erscans](https://mangadex.org/group/6f41bbde-9d25-4530-820b-d7f2fabc40a0/erscans) |
 | Esoteric Scans | [Esoteric Scans](https://comick.dev/group/esoteric-scans) | [https://mangadex.org/group/0a5757c0-e5c4-4cf7-a458-faa623222220/esoteric-scans](https://mangadex.org/group/0a5757c0-e5c4-4cf7-a458-faa623222220/esoteric-scans) |
 | Eternum Scans | [Eternum Scans](https://comick.dev/group/eternum-scans) | [https://mangadex.org/group/ece0a054-3d0e-41a1-99bc-523966e59653/eternum-scans](https://mangadex.org/group/ece0a054-3d0e-41a1-99bc-523966e59653/eternum-scans) |
@@ -452,6 +453,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Murim | [Murim](https://comick.dev/group/murim) | [https://murimscans.site](https://murimscans.site) |
 | My Darling | [My Darling](https://comick.dev/group/my-darling) | [https://mangadex.org/group/6bd636b4-c3cb-4aa6-a527-dc64476fe146](https://mangadex.org/group/6bd636b4-c3cb-4aa6-a527-dc64476fe146) |
 | Mylene Scans | [Mylene Scans](https://comick.dev/group/mylene-scans) | [https://comick.io/group/mylene-scans](https://comick.io/group/mylene-scans) |
+| Mysterious Scans | [Mysterious Scans](https://comick.dev/group/mysterious-scans) | [https://mangadex.org/group/424a70b8-27d5-4c67-9471-7605908e4102/mysterious-scans](https://mangadex.org/group/424a70b8-27d5-4c67-9471-7605908e4102/mysterious-scans) |
 | Mystical Merries Scans | [Mystical Merries Scans](https://comick.dev/group/mystical-merries-scans) | [https://mysticalmerries.com/](https://mysticalmerries.com/) |
 | N Scans | [N Scans](https://comick.dev/group/n-scans) | [https://mangadex.org/group/49656bd5-3edc-4bbd-b115-18a783591232/n-scans](https://mangadex.org/group/49656bd5-3edc-4bbd-b115-18a783591232/n-scans) |
 | Namensideenlos Scanlations | [Namensideenlos Scanlations](https://comick.dev/group/namensideenlos-scanlations) | [https://mangadex.org/group/493db93e-66dd-4858-9c8e-b9d0c185775c/namensideenlos-scanlations](https://mangadex.org/group/493db93e-66dd-4858-9c8e-b9d0c185775c/namensideenlos-scanlations) |
