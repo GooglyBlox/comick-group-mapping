@@ -6,9 +6,9 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 759
+- **Total Groups**: 760
 - **Mapped**: 740
-- **Unmapped**: 19
+- **Unmapped**: 20
 
 ## How to Contribute
 
@@ -776,6 +776,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Colored Manga | [Colored Manga](https://comick.dev/group/colored-manga) | — |
 | Crow Scanlation | [Crow Scanlation](https://comick.dev/group/crow-scanlation) | — |
 | Daycomics | [Daycomics](https://comick.dev/group/daycomics) | — |
+| GoldenGenchou | [GoldenGenchou](https://comick.dev/group/golden-genchou) | — |
 | Gonek | [Gonek](https://comick.dev/group/gonek) | — |
 | Heavenly Demon Scans | [Heavenly Demon Scans](https://comick.dev/group/heavenly-demon-scans) | — |
 | HighserkTomorrow | [HighserkTomorrow](https://comick.dev/group/highserk-tomorrow) | — |
