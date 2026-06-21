@@ -6,8 +6,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 760
-- **Mapped**: 740
+- **Total Groups**: 761
+- **Mapped**: 741
 - **Unmapped**: 20
 
 ## How to Contribute
@@ -231,6 +231,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Gekkou Scans | [Gekkou Scans](https://comick.dev/group/gekkou-scans-jy60kqs2) | [https://gekkoulegacy.top](https://gekkoulegacy.top) |
 | Genz Toons | [Genz Toons](https://comick.dev/group/genztoons) | [https://genzupdates.com](https://genzupdates.com) |
 | Gezza TL | [Gezza TL](https://comick.dev/group/gezza-tl) | [https://mangadex.org/group/b02d5eee-5b10-466a-8554-f4711b9250ef/gezza-tl](https://mangadex.org/group/b02d5eee-5b10-466a-8554-f4711b9250ef/gezza-tl) |
+| GIMP Pepper | [GIMP Pepper](https://comick.dev/group/gimp-pepper) | [https://mangadex.org/group/a4f6d78a-3da2-4d1e-bef2-4fb9646d04d4/gimp-pepper](https://mangadex.org/group/a4f6d78a-3da2-4d1e-bef2-4fb9646d04d4/gimp-pepper) |
 | GineY | [GineY](https://comick.dev/group/gine-y) | [https://gineybycerisandroku.blogspot.com/](https://gineybycerisandroku.blogspot.com/) |
 | Ginseng Scans | [Ginseng Scans](https://comick.dev/group/ginseng-scans) | [https://mangadex.org/group/019cda5c-ce74-43a5-a8e7-8dda83ce5a54/ginseng-scans](https://mangadex.org/group/019cda5c-ce74-43a5-a8e7-8dda83ce5a54/ginseng-scans) |
 | Gk007Scan | [Gk007Scan](https://comick.dev/group/gk007-scan-k0qhc4xv) | [https://mangadex.org/group/7351/gk007scan](https://mangadex.org/group/7351/gk007scan) |
