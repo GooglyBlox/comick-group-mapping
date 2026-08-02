@@ -6,8 +6,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 767
-- **Mapped**: 745
+- **Total Groups**: 770
+- **Mapped**: 748
 - **Unmapped**: 22
 
 ## How to Contribute
@@ -175,6 +175,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Drope Scan | [Drope Scan](https://comick.dev/group/drope-scan) | [https://dropescan.com/](https://dropescan.com/) |
 | duc_94 | [duc_94](https://comick.dev/group/duc-94) | [https://www.facebook.com/duongduccomic/](https://www.facebook.com/duongduccomic/) |
 | DucksWithHats | [DucksWithHats](https://comick.dev/group/ducks-with-hats) | [https://mangadex.org/group/499f5372-954d-4b59-8b47-bd3b370bb768/](https://mangadex.org/group/499f5372-954d-4b59-8b47-bd3b370bb768/) |
+| Dumpster Fire Scans | [Dumpster Fire Scans](https://comick.dev/group/dumpster-fire-scans) | [https://mangadex.org/group/434](https://mangadex.org/group/434) |
 | Easy Going Scans | [Easy Going Scans](https://comick.dev/group/easy-going-scans-jxfsfn0x) | [https://easygoingscans.com/](https://easygoingscans.com/) |
 | Ecchi Brothers | [Ecchi Brothers](https://comick.dev/group/ecchi-brothers) | [https://mangadex.org/group/10823/ecchi-brothers](https://mangadex.org/group/10823/ecchi-brothers) |
 | Ecchi No Doujinshi Scans | [Ecchi No Doujinshi Scans](https://comick.dev/group/ecchi-no-doujinshi-scans) | [https://mangadex.org/group/155d7139-8d9a-49eb-bceb-d5e26db08b72/ecchi-no-doujinshi-scans](https://mangadex.org/group/155d7139-8d9a-49eb-bceb-d5e26db08b72/ecchi-no-doujinshi-scans) |
@@ -381,6 +382,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Lua Comic | [Lua Comic](https://comick.dev/group/lua-scans) | [https://luacomic.org](https://luacomic.org) |
 | Lumii Scans | [Lumii Scans](https://comick.dev/group/lumii-scans) | [https://lumiiscans.home.blog/](https://lumiiscans.home.blog/) |
 | Luminare Translations | [Luminare Translations](https://comick.dev/group/luminare-translation) | [https://luminaretranslations.com](https://luminaretranslations.com) |
+| Luna Toons | [Luna Toons](https://comick.dev/group/luna-toons) | [https://lunatoons.org/](https://lunatoons.org/) |
 | LunaLotusScans | [LunaLotusScans](https://comick.dev/group/luna-lotus-scans) | [https://mangadex.org/group/327](https://mangadex.org/group/327) |
 | Lusario Scans | [Lusario Scans](https://comick.dev/group/lusario-scans) | [https://mangadex.org/group/10655/lusario-scans](https://mangadex.org/group/10655/lusario-scans) |
 | LynX Scans | [LynX Scans](https://comick.dev/group/secret-scans) | [https://lynxscans.com/](https://lynxscans.com/) |
@@ -645,6 +647,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Studio NEET | [Studio NEET](https://comick.dev/group/studio-neet) | [https://mangadex.org/group/18306/studio-neet](https://mangadex.org/group/18306/studio-neet) |
 | Study group | [Study group](https://comick.dev/group/study-group) | [https://mm-scans.com/](https://mm-scans.com/) |
 | SuloppaTL | [SuloppaTL](https://comick.dev/group/suloppa-tl) | [https://mangadex.org/group/db14c1ca-7e65-4893-b9f1-5191559a544d/suloppatl](https://mangadex.org/group/db14c1ca-7e65-4893-b9f1-5191559a544d/suloppatl) |
+| SuNday | [SuNday](https://comick.dev/group/su-nday) | [https://mangadex.org/group/88ae2786-8313-4fed-9667-6a9702cb2855/sunday](https://mangadex.org/group/88ae2786-8313-4fed-9667-6a9702cb2855/sunday) |
 | Sunflower Patch | [Sunflower Patch](https://comick.dev/group/sunflower-patch) | [https://mangadex.org/group/213f6c3b-e9c1-4fac-95f2-42b55d814998/sunflower-patch](https://mangadex.org/group/213f6c3b-e9c1-4fac-95f2-42b55d814998/sunflower-patch) |
 | Sunny Side Up Scans | [Sunny Side Up Scans](https://comick.dev/group/sunny-side-up-scans) | [https://mangadex.org/group/15084/sunny-side-up-scans](https://mangadex.org/group/15084/sunny-side-up-scans) |
 | Surya Scans | [Surya Scans](https://comick.dev/group/surya-scansqnXP) | [https://suryatoon.com/](https://suryatoon.com/) |
