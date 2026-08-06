@@ -6,8 +6,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 770
-- **Mapped**: 748
+- **Total Groups**: 771
+- **Mapped**: 749
 - **Unmapped**: 22
 
 ## How to Contribute
@@ -224,6 +224,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | FlixScans | [FlixScans](https://comick.dev/group/flix-scanswONb) | [https://flixscans.net/](https://flixscans.net/) |
 | forty-four minute scans | [forty-four minute scans](https://comick.dev/group/forty-four-minute-scans) | [https://mangadex.org/group/c2c254d6-aa8d-4288-965b-82386653f896/forty-four-minute-scans](https://mangadex.org/group/c2c254d6-aa8d-4288-965b-82386653f896/forty-four-minute-scans) |
 | Freak Scans | [Freak Scans](https://comick.dev/group/freak-scans) | [https://freakscans.com/](https://freakscans.com/) |
+| Frenzy Scans | [Frenzy Scans](https://comick.dev/group/frenzy-scans) | [https://www.patreon.com/c/FrenzyScans](https://www.patreon.com/c/FrenzyScans) |
 | Fris44 Typesetting | [Fris44 Typesetting](https://comick.dev/group/fris44-typesetting) | [https://typeset.thefrisiangamer.nl/](https://typeset.thefrisiangamer.nl/) |
 | Frozen Scans | [Frozen Scans](https://comick.dev/group/frozen-scans) | [https://mangadex.org/group/13899/frozen-scans](https://mangadex.org/group/13899/frozen-scans) |
 | Fukashigi | [Fukashigi](https://comick.dev/group/fukashigi) | [https://assortedscans.com/](https://assortedscans.com/) |
