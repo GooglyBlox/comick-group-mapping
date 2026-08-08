@@ -6,8 +6,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 771
-- **Mapped**: 749
+- **Total Groups**: 772
+- **Mapped**: 750
 - **Unmapped**: 22
 
 ## How to Contribute
@@ -554,6 +554,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Renegade Scans | [Renegade Scans](https://comick.dev/group/renegade-scans) | [https://mangadex.org/group/c558c319-7c6c-4563-bc58-8e752fbec0d0/renegade-scans](https://mangadex.org/group/c558c319-7c6c-4563-bc58-8e752fbec0d0/renegade-scans) |
 | Reptile Scans | [Reptile Scans](https://comick.dev/group/reptile-scans) | [https://mangadex.org/group/67842811-52ba-40f2-9a90-7b5a27142bd8/reptile-scans](https://mangadex.org/group/67842811-52ba-40f2-9a90-7b5a27142bd8/reptile-scans) |
 | RESET SCANS | [RESET SCANS](https://comick.dev/group/reset-scans) | [https://reset-scans.org](https://reset-scans.org) |
+| RestScans | [RestScans](https://comick.dev/group/rest-scans) | [https://restscans.com](https://restscans.com) |
 | Revelion Scan | [Revelion Scan](https://comick.dev/group/revelion-scan) | [https://mangadex.org/group/11857/revelion-scan](https://mangadex.org/group/11857/revelion-scan) |
 | Reverse us | [Reverse us](https://comick.dev/group/reverse-us) | [https://mangadex.org/group/12080/reverse-us](https://mangadex.org/group/12080/reverse-us) |
 | Rezoscans | [Rezoscans](https://comick.dev/group/rezoscans) | [https://rezoscan.org/](https://rezoscan.org/) |
