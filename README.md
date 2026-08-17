@@ -6,8 +6,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 772
-- **Mapped**: 750
+- **Total Groups**: 773
+- **Mapped**: 751
 - **Unmapped**: 22
 
 ## How to Contribute
@@ -296,6 +296,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | INK Scans | [INK Scans](https://comick.dev/group/ink-scans) | [https://mangadex.org/group/bcfbedbd-ffb9-4fc6-8f48-6d132e96b573/ink-scans](https://mangadex.org/group/bcfbedbd-ffb9-4fc6-8f48-6d132e96b573/ink-scans) |
 | Inked Scans | [Inked Scans](https://comick.dev/group/inked-scans) | [https://mangadex.org/group/61ac0899-e2c2-4458-8b7b-f4f936fde6cb/inked-scans](https://mangadex.org/group/61ac0899-e2c2-4458-8b7b-f4f936fde6cb/inked-scans) |
 | INKR Comics | [INKR Comics](https://comick.dev/group/inkr-comics) | [https://inkr.com/](https://inkr.com/) |
+| INKVORA | [INKVORA](https://comick.dev/group/inkvora) | [https://inkvora.net](https://inkvora.net) |
 | InReality Translations | [InReality Translations](https://comick.dev/group/in-reality-translations) | [https://mangadex.org/group/8668b91c-3644-4c1f-bfb0-48a4926a6e04/inreality-translations](https://mangadex.org/group/8668b91c-3644-4c1f-bfb0-48a4926a6e04/inreality-translations) |
 | Irrelevant Scans | [Irrelevant Scans](https://comick.dev/group/irrelevant-scans) | [https://mangadex.org/group/4aeb95c3-4dd7-480f-a8fd-795703ab190a/irrelevant-scans](https://mangadex.org/group/4aeb95c3-4dd7-480f-a8fd-795703ab190a/irrelevant-scans) |
 | It's My First Translations | [It's My First Translations](https://comick.dev/group/it-s-my-first-translations) | [https://mangadex.org/group/82d1e153-738a-4ed5-96db-e535809f452c/it-s-my-first-translations](https://mangadex.org/group/82d1e153-738a-4ed5-96db-e535809f452c/it-s-my-first-translations) |
