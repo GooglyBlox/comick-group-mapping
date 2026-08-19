@@ -6,8 +6,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 773
-- **Mapped**: 751
+- **Total Groups**: 774
+- **Mapped**: 752
 - **Unmapped**: 22
 
 ## How to Contribute
@@ -582,6 +582,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | SACACHISPA SCANLATION | [SACACHISPA SCANLATION](https://comick.dev/group/sacachispa-scanlation) | [https://mangadex.org/group/2b58d703-a18b-41c3-aa6f-b7ae528eda90/sacachispa-scanlation](https://mangadex.org/group/2b58d703-a18b-41c3-aa6f-b7ae528eda90/sacachispa-scanlation) |
 | SaebaScans | [SaebaScans](https://comick.dev/group/saeba-scans) | [https://ko-fi.com/yourownsquare](https://ko-fi.com/yourownsquare) |
 | Salty Witches co. | [Salty Witches co.](https://comick.dev/group/salty-witches-co) | [https://mangadex.org/group/15974/salty-witches-co](https://mangadex.org/group/15974/salty-witches-co) |
+| Sana Scans | [Sana Scans](https://comick.dev/group/sana-scans) | [https://sanascans.com/](https://sanascans.com/) |
 | Sappho Scans | [Sappho Scans](https://comick.dev/group/sappho-scans) | [https://mangadex.org/group/a7e9deb5-85e4-4f27-951a-0d2e50c1001a/](https://mangadex.org/group/a7e9deb5-85e4-4f27-951a-0d2e50c1001a/) |
 | Sappy Snail Scans | [Sappy Snail Scans](https://comick.dev/group/sappy-snail-scans) | [https://mangadex.org/group/60a53e3d-24fe-4f5a-ab2d-fc2a4aea05ad/sappy-snail-scans](https://mangadex.org/group/60a53e3d-24fe-4f5a-ab2d-fc2a4aea05ad/sappy-snail-scans) |
 | Saucerer | [Saucerer](https://comick.dev/group/saucerer) | [https://mangadex.org/group/b4259491-68eb-42ad-b4d4-9db8de278e72](https://mangadex.org/group/b4259491-68eb-42ad-b4d4-9db8de278e72) |
