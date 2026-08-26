@@ -6,8 +6,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 774
-- **Mapped**: 752
+- **Total Groups**: 776
+- **Mapped**: 754
 - **Unmapped**: 22
 
 ## How to Contribute
@@ -101,6 +101,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Bl0ze | [Bl0ze](https://comick.dev/group/bl0ze) | [https://mangadex.org/group/369d1c56-6fd4-4667-9a66-73d1df0f76fe/bl0ze](https://mangadex.org/group/369d1c56-6fd4-4667-9a66-73d1df0f76fe/bl0ze) |
 | Black Cat Scanlations | [Black Cat Scanlations](https://comick.dev/group/black-cat-scanlations-jxn1ldva) | [https://catmanga.org/](https://catmanga.org/) |
 | Black Wolf Translations | [Black Wolf Translations](https://comick.dev/group/black-wolf-translations) | [https://mangadex.org/group/a0a40f6c-6f65-43ba-bb15-301e7d64129b/black-wolf-translations](https://mangadex.org/group/a0a40f6c-6f65-43ba-bb15-301e7d64129b/black-wolf-translations) |
+| blood scans | [blood scans](https://comick.dev/group/blood-scans) | [https://mangadex.org/group/8cff67be-196b-40cc-adc0-fecfb68bc16a/blood-scans](https://mangadex.org/group/8cff67be-196b-40cc-adc0-fecfb68bc16a/blood-scans) |
 | Blooming Tea Scans | [Blooming Tea Scans](https://comick.dev/group/blooming-tea-scans) | [https://bloomingtea.mangadex.com/](https://bloomingtea.mangadex.com/) |
 | Blue Sterling Scans | [Blue Sterling Scans](https://comick.dev/group/blue-sterling-scans-jx2szjqj) | [https://mangadex.org/group/8571/blue-sterling-scans](https://mangadex.org/group/8571/blue-sterling-scans) |
 | bluewallblacktile | [bluewallblacktile](https://comick.dev/group/bluewallblacktile) | [https://mangadex.org/group/bf41979d-6ae4-40bd-a8dd-59cecd03e90d/bluewallblacktile](https://mangadex.org/group/bf41979d-6ae4-40bd-a8dd-59cecd03e90d/bluewallblacktile) |
@@ -422,6 +423,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Manhuanext.com | [Manhuanext.com](https://comick.dev/group/manhuanext-com) | [https://manhuanext.com/](https://manhuanext.com/) |
 | Manhwa Clan | [Manhwa Clan](https://comick.dev/group/manhwaclan) | [https://manhwaclan.com](https://manhwaclan.com) |
 | ManhwaFreak | [ManhwaFreak](https://comick.dev/group/manhwa-freak) | [https://manhwa-freak.org/](https://manhwa-freak.org/) |
+| ManhwaNex | [ManhwaNex](https://comick.dev/group/manhwa-nex) | [https://manhwanex.com/](https://manhwanex.com/) |
 | Mascarada | [Mascarada](https://comick.dev/group/mascarada) | [https://mangadex.org/group/a87eb04b-6fde-4cc5-bad0-22f1566e366b/mascarada](https://mangadex.org/group/a87eb04b-6fde-4cc5-bad0-22f1566e366b/mascarada) |
 | Matisse | [Matisse](https://comick.dev/group/matisse) | [https://mangadex.org/group/504f76aa-0409-414c-a8ce-d49e82c31479/matisse](https://mangadex.org/group/504f76aa-0409-414c-a8ce-d49e82c31479/matisse) |
 | Melon Drop Scans | [Melon Drop Scans](https://comick.dev/group/melon-drop-scans) | [https://mangadex.org/group/15768/melon-drop-scans](https://mangadex.org/group/15768/melon-drop-scans) |
