@@ -6,8 +6,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 776
-- **Mapped**: 754
+- **Total Groups**: 777
+- **Mapped**: 755
 - **Unmapped**: 22
 
 ## How to Contribute
@@ -490,6 +490,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Not a Scans Scans Group | [Not a Scans Scans Group](https://comick.dev/group/not-a-scans-scans-group) | [https://mangadex.org/group/7914/not-a-scans-scans-group](https://mangadex.org/group/7914/not-a-scans-scans-group) |
 | NotARealScans | [NotARealScans](https://comick.dev/group/not-a-real-scans) | [https://mangadex.org/group/12332/notarealscans](https://mangadex.org/group/12332/notarealscans) |
 | NoToSolo Scans | [NoToSolo Scans](https://comick.dev/group/no-to-solo-scans) | [https://ntsscans.com/](https://ntsscans.com/) |
+| novatoon | [novatoon](https://comick.dev/group/novatoon) | [https://novatoon.com/](https://novatoon.com/) |
 | Nuvia Toon | [Nuvia Toon](https://comick.dev/group/nuvia-toon) | [https://nuviatoon.com/](https://nuviatoon.com/) |
 | nyan-skan | [nyan-skan](https://comick.dev/group/nyan-skan) | [https://mangadex.org/group/cc6f4ee8-c1a5-4f7f-b4c9-ddeceb2a21aa/nyan-skan](https://mangadex.org/group/cc6f4ee8-c1a5-4f7f-b4c9-ddeceb2a21aa/nyan-skan) |
 | NyanuKafe | [NyanuKafe](https://comick.dev/group/nyanu-kafe) | [https://nyanukafe.com/](https://nyanukafe.com/) |
