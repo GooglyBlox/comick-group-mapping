@@ -6,9 +6,9 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 777
-- **Mapped**: 755
-- **Unmapped**: 22
+- **Total Groups**: 790
+- **Mapped**: 765
+- **Unmapped**: 25
 
 ## How to Contribute
 
@@ -284,6 +284,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | I'd Rather Sleep | [I'd Rather Sleep](https://comick.dev/group/i-d-rather-sleep) | [https://mangadex.org/group/6a299552-2f17-4028-a7e7-d965ca46755f/i-d-rather-sleep](https://mangadex.org/group/6a299552-2f17-4028-a7e7-d965ca46755f/i-d-rather-sleep) |
 | Idk Either | [Idk Either](https://comick.dev/group/idk-either) | [https://comick.io/group/idk-either](https://comick.io/group/idk-either) |
 | IgnisComic | [IgnisComic](https://comick.dev/group/igniscomic) | [https://igniscomic.com](https://igniscomic.com) |
+| IJW Scans | [IJW Scans](https://comick.dev/group/ijw-scans) | [https://mangadex.org/group/192955ad-6551-437a-a153-b7d889f9de32/ijw-scans](https://mangadex.org/group/192955ad-6551-437a-a153-b7d889f9de32/ijw-scans) |
 | Illiterate Scans | [Illiterate Scans](https://comick.dev/group/nakimov-scanlation) | [https://mangadex.org/group/d9b39bb6-d1b9-4981-8d7d-01ab3d8f1e87/illiterate-scans](https://mangadex.org/group/d9b39bb6-d1b9-4981-8d7d-01ab3d8f1e87/illiterate-scans) |
 | Illuminati-Manga | [Illuminati-Manga](https://comick.dev/group/illuminati-manga) | [http://illuminati-manga.com/](http://illuminati-manga.com/) |
 | iltrof | [iltrof](https://comick.dev/group/iltrof-jxzy2lnl) | [https://mangadex.org/group/7956/iltrof](https://mangadex.org/group/7956/iltrof) |
@@ -316,6 +317,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Kakeru Scans | [Kakeru Scans](https://comick.dev/group/kakeru-scans) | [https://mangadex.org/group/a34e60bd-316a-4909-aa36-84027ce492a5/kakeru-scans](https://mangadex.org/group/a34e60bd-316a-4909-aa36-84027ce492a5/kakeru-scans) |
 | Kamen | [Kamen](https://comick.dev/group/kamen) | [https://mangadex.org/group/1ffac34a-ace3-43ea-a141-f622e65b26e8/kamen](https://mangadex.org/group/1ffac34a-ace3-43ea-a141-f622e65b26e8/kamen) |
 | KananScans | [KananScans](https://comick.dev/group/kanan-scans) | [https://mangadex.org/group/17980a83-d00d-4f83-a2fd-d1a42a2dd807/kananscans](https://mangadex.org/group/17980a83-d00d-4f83-a2fd-d1a42a2dd807/kananscans) |
+| Kanin Group | [Kanin Group](https://comick.dev/group/kanin-group) | [https://mangadex.org/group/a18d009d-ce41-4b1a-b466-837386a51c1a/kanin-group](https://mangadex.org/group/a18d009d-ce41-4b1a-b466-837386a51c1a/kanin-group) |
 | Kanojo Scans | [Kanojo Scans](https://comick.dev/group/kanojo-scans) | [https://mangadex.org/group/204f0ee1-6b9b-4fb3-b95a-fe113dca811a/kanojo-scans](https://mangadex.org/group/204f0ee1-6b9b-4fb3-b95a-fe113dca811a/kanojo-scans) |
 | KappaBeast | [KappaBeast](https://comick.dev/group/gashadokai) | [https://kappabeast.com](https://kappabeast.com) |
 | KATCR | [KATCR](https://comick.dev/group/katcr) | [https://mangadex.org/group/2c055fc4-b375-4d80-9629-2f9521dfdf6f/katcr](https://mangadex.org/group/2c055fc4-b375-4d80-9629-2f9521dfdf6f/katcr) |
@@ -325,6 +327,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Keiretsu | [Keiretsu](https://comick.dev/group/keiretsu) | [https://mangadex.org/group/dd334c28-654e-4987-8515-b4539064714b/keiretsu](https://mangadex.org/group/dd334c28-654e-4987-8515-b4539064714b/keiretsu) |
 | ken manga | [ken manga](https://comick.dev/group/ken-manga) | [https://kenscans.org/](https://kenscans.org/) |
 | Kenscans | [Kenscans](https://comick.dev/group/kenscans) | [https://kencomics.com](https://kencomics.com) |
+| kero_scans | [kero_scans](https://comick.dev/group/kero-scans) | [https://keroscans.net/](https://keroscans.net/) |
 | Keshigomu Scans | [Keshigomu Scans](https://comick.dev/group/keshigomu-scans) | [https://mangadex.org/group/021d6760-cd10-4f40-8bef-0240f53dfc1b/keshigomu-scans](https://mangadex.org/group/021d6760-cd10-4f40-8bef-0240f53dfc1b/keshigomu-scans) |
 | Kewn Scans | [Kewn Scans](https://comick.dev/group/kewn-scans) | [https://kewnscans.org/](https://kewnscans.org/) |
 | kingdomscan's | [kingdomscan's](https://comick.dev/group/kingdomscan-s) | [https://mangadex.org/group/12338/kingdomscan-s](https://mangadex.org/group/12338/kingdomscan-s) |
@@ -445,6 +448,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Mistakes Were Made | [Mistakes Were Made](https://comick.dev/group/mistakes-were-made) | [https://mwmtranslations.com/](https://mwmtranslations.com/) |
 | MitsuakiScans | [MitsuakiScans](https://comick.dev/group/mitsuaki-scans) | [https://mangadex.org/group/bce1e0f2-932a-4988-90dc-c21788283736/mitsuakiscans](https://mangadex.org/group/bce1e0f2-932a-4988-90dc-c21788283736/mitsuakiscans) |
 | MMSCANS | [MMSCANS](https://comick.dev/group/mmscans) | [https://mangadex.org/group/16104/mmscans](https://mangadex.org/group/16104/mmscans) |
+| MnemosyneTL | [MnemosyneTL](https://comick.dev/group/mnemosyne-tl) | [https://mangadex.org/group/15f39079-c960-4fce-bd1f-7a848131634a/mnemosynetl](https://mangadex.org/group/15f39079-c960-4fce-bd1f-7a848131634a/mnemosynetl) |
 | Mochi Hachi Scan | [Mochi Hachi Scan](https://comick.dev/group/mochi-hachi-scan) | [https://mangadex.org/group/39d30252-a9a9-4114-9633-da6da5dbae7f/mochi-hachi-scan](https://mangadex.org/group/39d30252-a9a9-4114-9633-da6da5dbae7f/mochi-hachi-scan) |
 | Moe and Friends | [Moe and Friends](https://comick.dev/group/moe-and-friends-jxqi2kc6) | [https://mangadex.org/group/3962/moe-and-friends](https://mangadex.org/group/3962/moe-and-friends) |
 | Moe Panda Scans | [Moe Panda Scans](https://comick.dev/group/moe-panda-scans) | [https://mangadex.org/group/1328](https://mangadex.org/group/1328) |
@@ -465,6 +469,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Mysterious Scans | [Mysterious Scans](https://comick.dev/group/mysterious-scans) | [https://mangadex.org/group/424a70b8-27d5-4c67-9471-7605908e4102/mysterious-scans](https://mangadex.org/group/424a70b8-27d5-4c67-9471-7605908e4102/mysterious-scans) |
 | Mystical Merries Scans | [Mystical Merries Scans](https://comick.dev/group/mystical-merries-scans) | [https://mysticalmerries.com/](https://mysticalmerries.com/) |
 | N Scans | [N Scans](https://comick.dev/group/n-scans) | [https://mangadex.org/group/49656bd5-3edc-4bbd-b115-18a783591232/n-scans](https://mangadex.org/group/49656bd5-3edc-4bbd-b115-18a783591232/n-scans) |
+| NaJung Translation | [NaJung Translation](https://comick.dev/group/na-jung-translation) | [https://www.facebook.com/NajungDaiLuc](https://www.facebook.com/NajungDaiLuc) |
 | Namensideenlos Scanlations | [Namensideenlos Scanlations](https://comick.dev/group/namensideenlos-scanlations) | [https://mangadex.org/group/493db93e-66dd-4858-9c8e-b9d0c185775c/namensideenlos-scanlations](https://mangadex.org/group/493db93e-66dd-4858-9c8e-b9d0c185775c/namensideenlos-scanlations) |
 | NamiComi | [NamiComi](https://comick.dev/group/nami-comi) | [https://namicomi.com](https://namicomi.com) |
 | Nato 012 Fansub | [Nato 012 Fansub](https://comick.dev/group/nato-012-fansub) | [https://allmylinks.com/nato012fansub](https://allmylinks.com/nato012fansub) |
@@ -483,6 +488,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | NO DHL | [NO DHL](https://comick.dev/group/no-dhl) | [https://mangadex.org/group/79c605de-720c-4fb4-a55b-ca98e5cf29f5/no-dhl](https://mangadex.org/group/79c605de-720c-4fb4-a55b-ca98e5cf29f5/no-dhl) |
 | No Group Scanlation | [No Group Scanlation](https://comick.dev/group/no-group-scanlation) | [https://mangadex.org/group/2716/no-group-scanlation](https://mangadex.org/group/2716/no-group-scanlation) |
 | No Pressure Scans | [No Pressure Scans](https://comick.dev/group/no-pressure-scans) | [https://mangadex.org/group/13539/bc-scans](https://mangadex.org/group/13539/bc-scans) |
+| Nocturnal Scans | [Nocturnal Scans](https://comick.dev/group/nocturnalscans) | [https://nocturnalscans.com/](https://nocturnalscans.com/) |
 | Nocturnal Yuri | [Nocturnal Yuri](https://comick.dev/group/nocturnal-yuri) | [https://mangadex.org/group/f5ecdf12-07e6-416b-b8a6-36bf48718f81/nocturnal-yuri](https://mangadex.org/group/f5ecdf12-07e6-416b-b8a6-36bf48718f81/nocturnal-yuri) |
 | nocturne scans | [nocturne scans](https://comick.dev/group/nocturne-scans) | [https://mangadex.org/group/14026/nocturne-scans](https://mangadex.org/group/14026/nocturne-scans) |
 | NON-STOP^^SCANS | [NON-STOP^^SCANS](https://comick.dev/group/non-stop-scans) | [https://www.nonstopscans.com/](https://www.nonstopscans.com/) |
@@ -526,6 +532,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Piranhaplant | [Piranhaplant](https://comick.dev/group/piranhaplant) | [https://piranhaplant1.blogspot.com/](https://piranhaplant1.blogspot.com/) |
 | Platinum Crown | [Platinum Crown](https://comick.dev/group/platinum-crown) | [https://platinumscans.com/](https://platinumscans.com/) |
 | Player1_Please | [Player1_Please](https://comick.dev/group/player1-please) | [https://mangadex.org/group/4898ab5a-01ea-4f8f-96cf-1e28f3bb65ff](https://mangadex.org/group/4898ab5a-01ea-4f8f-96cf-1e28f3bb65ff) |
+| Please pick up this manga :v | [Please pick up this manga :v](https://comick.dev/group/please-pick-up-this-manga-v) | [https://mangadex.org/group/ce10f72f-47d5-4ee0-9f14-f9d518e85c8e/please-pick-up-this-manga-v](https://mangadex.org/group/ce10f72f-47d5-4ee0-9f14-f9d518e85c8e/please-pick-up-this-manga-v) |
 | Poked | [Poked](https://comick.dev/group/poked) | [https://mangadex.org/group/d5c35162-3bd1-41f8-ae22-7cc1c7d229e9](https://mangadex.org/group/d5c35162-3bd1-41f8-ae22-7cc1c7d229e9) |
 | pretty bad TLs | [pretty bad TLs](https://comick.dev/group/pretty-bad-t-ls) | [https://pbtls.wordpress.com/](https://pbtls.wordpress.com/) |
 | Princess Alliance | [Princess Alliance](https://comick.dev/group/princess-alliance) | [https://mangadex.org/group/14731/princess-alliance](https://mangadex.org/group/14731/princess-alliance) |
@@ -562,6 +569,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Revelion Scan | [Revelion Scan](https://comick.dev/group/revelion-scan) | [https://mangadex.org/group/11857/revelion-scan](https://mangadex.org/group/11857/revelion-scan) |
 | Reverse us | [Reverse us](https://comick.dev/group/reverse-us) | [https://mangadex.org/group/12080/reverse-us](https://mangadex.org/group/12080/reverse-us) |
 | Rezoscans | [Rezoscans](https://comick.dev/group/rezoscans) | [https://rezoscan.org/](https://rezoscan.org/) |
+| RiceScan | [RiceScan](https://comick.dev/group/rice-scan) | [https://mangadex.org/group/a8a25544-472d-4199-95b2-f4f9e98a8103/ricescan](https://mangadex.org/group/a8a25544-472d-4199-95b2-f4f9e98a8103/ricescan) |
 | Rightdark-Scan | [Rightdark-Scan](https://comick.dev/group/rightdark-scan) | [https://dark-scan.com/](https://dark-scan.com/) |
 | RingHeilgh | [RingHeilgh](https://comick.dev/group/ring-heilgh) | [https://mangadex.org/group/13903/ringheilgh](https://mangadex.org/group/13903/ringheilgh) |
 | Rinko Comics | [Rinko Comics](https://comick.dev/group/rinko-comics) | [https://rinkocomics.com/](https://rinkocomics.com/) |
@@ -644,6 +652,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Square Enix | [Square Enix](https://comick.dev/group/square-enix) | [www.square-enix.com](www.square-enix.com) |
 | SquigglesJP | [SquigglesJP](https://comick.dev/group/squiggles-jp) | [https://mangadex.org/group/d284940f-0184-4720-a620-0e401d597fc4](https://mangadex.org/group/d284940f-0184-4720-a620-0e401d597fc4) |
 | SSS Scans | [SSS Scans](https://comick.dev/group/sss-scans) | [https://mangadex.org/group/69941e38-abed-47c9-b462-c95b3e28f2a2/sss-scans](https://mangadex.org/group/69941e38-abed-47c9-b462-c95b3e28f2a2/sss-scans) |
+| Stage 4 brain rot | [Stage 4 brain rot](https://comick.dev/group/stage-4-brain-rot) | [https://mangadex.org/group/9a8622bc-45b3-47a3-8f9a-accbe8e4724b/stage-4-brain-rot](https://mangadex.org/group/9a8622bc-45b3-47a3-8f9a-accbe8e4724b/stage-4-brain-rot) |
 | Stan Rofan Scans | [Stan Rofan Scans](https://comick.dev/group/stan-rofan-scans) | [https://mangadex.org/group/d190c462-764c-41b2-b315-034cab25640b/stan-rofan-scans](https://mangadex.org/group/d190c462-764c-41b2-b315-034cab25640b/stan-rofan-scans) |
 | starr | [starr](https://comick.dev/group/starr) | [https://mangadex.org/group/a712f4bf-618b-4862-bafe-bec510177a55](https://mangadex.org/group/a712f4bf-618b-4862-bafe-bec510177a55) |
 | StoneScape | [StoneScape](https://comick.dev/group/stone-scape) | [https://stonescape.xyz](https://stonescape.xyz) |
@@ -747,6 +756,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | We Hate Isekai | [We Hate Isekai](https://comick.dev/group/we-hate-isekai) | [https://wehateisekai.club/](https://wehateisekai.club/) |
 | We Need More Yankiis | [We Need More Yankiis](https://comick.dev/group/we-need-more-yankiis) | [https://mangadex.org/group/13557/we-need-more-yankiis](https://mangadex.org/group/13557/we-need-more-yankiis) |
 | Weather vane | [Weather vane](https://comick.dev/group/weather-vane) | [https://mangadex.org/group/16354/weather-vane](https://mangadex.org/group/16354/weather-vane) |
+| WebComics | [WebComics](https://comick.dev/group/web-comics) | [http://www.webcomicsapp.com/](http://www.webcomicsapp.com/) |
 | Webdex | [Webdex](https://comick.dev/group/webdex) | [https://webdexscans.com/](https://webdexscans.com/) |
 | WEBTOON | [WEBTOON](https://comick.dev/group/line-webtoon) | [https://www.webtoons.com](https://www.webtoons.com) |
 | Weeaboo Scans | [Weeaboo Scans](https://comick.dev/group/weeaboo-scans) | [https://www.mangaweeaboo.com/](https://www.mangaweeaboo.com/) |
@@ -798,11 +808,14 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | Heavenly Demon Scans | [Heavenly Demon Scans](https://comick.dev/group/heavenly-demon-scans) | — |
 | HighserkTomorrow | [HighserkTomorrow](https://comick.dev/group/highserk-tomorrow) | — |
 | kaiscans | [kaiscans](https://comick.dev/group/kaiscans) | — |
+| KokoMangas | [KokoMangas](https://comick.dev/group/koko-mangas) | — |
 | Lezhin (Ex-Licenses) | [Lezhin (Ex-Licenses)](https://comick.dev/group/lezhin-ex-licenses) | — |
 | NeitheYAGI | [NeitheYAGI](https://comick.dev/group/neithe-yagi) | — |
 | News | [News](https://comick.dev/group/news) | — |
 | no group | [no group](https://comick.dev/group/no-group) | — |
 | Official | [Official](https://comick.dev/group/official) | — |
+| Seven Seas Entertainment | [Seven Seas Entertainment](https://comick.dev/group/even-seas-entertainment) | — |
+| Tempat Singgah Scans | [Tempat Singgah Scans](https://comick.dev/group/tempat-singgah-scan) | — |
 | The Koi pond. | [The Koi pond.](https://comick.dev/group/the-koi-pond) | — |
 | Unknown | [Unknown](https://comick.dev/group/unknown) | — |
 | WEBTOON (Ex-Licenses) | [WEBTOON (Ex-Licenses)](https://comick.dev/group/line-webtoon-ex-licenses) | — |
