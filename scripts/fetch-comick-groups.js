@@ -14,6 +14,44 @@ const COMICK_GROUP_URLS = [
   "https://comick.dev/group/popular/2020",
 ];
 
+function extractGroupsArray(html) {
+  const payload = [
+    ...html.matchAll(/self\.__next_f\.push\(\[1,("(?:[^"\\]|\\.)*")\]\)/g),
+  ]
+    .map((match) => JSON.parse(match[1]))
+    .join("");
+
+  const key = '"groups":';
+  const start = payload.indexOf(`${key}[`);
+  if (start === -1) {
+    return null;
+  }
+
+  const from = start + key.length;
+  let depth = 0;
+  let inString = false;
+
+  for (let i = from; i < payload.length; i++) {
+    const char = payload[i];
+
+    if (inString) {
+      if (char === "\\") {
+        i++;
+      } else if (char === '"') {
+        inString = false;
+      }
+    } else if (char === '"') {
+      inString = true;
+    } else if (char === "[") {
+      depth++;
+    } else if (char === "]" && --depth === 0) {
+      return JSON.parse(payload.slice(from, i + 1));
+    }
+  }
+
+  return null;
+}
+
 function fetchPage(url) {
   return new Promise((resolve) => {
     https
@@ -23,21 +61,31 @@ function fetchPage(url) {
           html += chunk;
         });
         res.on("end", () => {
-          const match = html.match(
-            /<script id="__NEXT_DATA__" type="application\/json">(\{.*?\})<\/script>/,
-          );
+          if (res.statusCode !== 200) {
+            console.error(`Failed: ${url} HTTP ${res.statusCode}`);
+            resolve([]);
+            return;
+          }
 
-          if (!match) {
+          let rawGroups;
+          try {
+            rawGroups = extractGroupsArray(html);
+          } catch (error) {
+            console.error(`Failed to parse ${url}: ${error.message}`);
+          }
+
+          if (!Array.isArray(rawGroups)) {
             console.error(`No data on ${url}`);
             resolve([]);
             return;
           }
 
-          const data = JSON.parse(match[1]);
-          const groups = data.props.pageProps.groups.map((group) => ({
-            title: group.title.trim(),
-            slug: group.slug,
-          }));
+          const groups = rawGroups
+            .filter((group) => group && group.slug && group.title)
+            .map((group) => ({
+              title: group.title.trim(),
+              slug: group.slug,
+            }));
 
           console.log(`${url}: ${groups.length} groups`);
           resolve(groups);
@@ -65,8 +113,11 @@ async function fetchAndMergeGroups() {
     existingMap.set(group.slug, group);
   }
 
+  let fetchedCount = 0;
+
   for (const url of COMICK_GROUP_URLS) {
     const groups = await fetchPage(url);
+    fetchedCount += groups.length;
 
     for (const group of groups) {
       if (existingMap.has(group.slug)) {
@@ -80,6 +131,12 @@ async function fetchAndMergeGroups() {
         url: "",
       });
     }
+  }
+
+  if (fetchedCount === 0) {
+    throw new Error(
+      "No groups fetched from Comick; the page structure may have changed",
+    );
   }
 
   const mergedGroups = Array.from(existingMap.values()).sort((left, right) =>
