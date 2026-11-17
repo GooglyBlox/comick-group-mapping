@@ -6,8 +6,8 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 790
-- **Mapped**: 765
+- **Total Groups**: 791
+- **Mapped**: 766
 - **Unmapped**: 25
 
 ## How to Contribute
@@ -281,6 +281,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | HuzbiScanlations | [HuzbiScanlations](https://comick.dev/group/huzbi-scanlations) | [https://mangadex.org/group/12177/huzbiscanlations](https://mangadex.org/group/12177/huzbiscanlations) |
 | Hyakuro Translations | [Hyakuro Translations](https://comick.dev/group/hyakuro-translations) | [https://hyakuro.net/](https://hyakuro.net/) |
 | I Love Isekai Scans | [I Love Isekai Scans](https://comick.dev/group/i-love-isekai-scans-jxkcm8ew) | [https://mangadex.org/group/793/i-love-isekai-scans](https://mangadex.org/group/793/i-love-isekai-scans) |
+| I Snipe MTL | [I Snipe MTL](https://comick.dev/group/i-snipe-mtl) | [https://mangadex.org/group/cedcd8ad-aa38-423f-a9dc-9f03f232def9/i-snipe-mtl](https://mangadex.org/group/cedcd8ad-aa38-423f-a9dc-9f03f232def9/i-snipe-mtl) |
 | I'd Rather Sleep | [I'd Rather Sleep](https://comick.dev/group/i-d-rather-sleep) | [https://mangadex.org/group/6a299552-2f17-4028-a7e7-d965ca46755f/i-d-rather-sleep](https://mangadex.org/group/6a299552-2f17-4028-a7e7-d965ca46755f/i-d-rather-sleep) |
 | Idk Either | [Idk Either](https://comick.dev/group/idk-either) | [https://comick.io/group/idk-either](https://comick.io/group/idk-either) |
 | IgnisComic | [IgnisComic](https://comick.dev/group/igniscomic) | [https://igniscomic.com](https://igniscomic.com) |
