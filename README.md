@@ -6,9 +6,9 @@ A community-maintained mapping of scanlation groups on [comick.dev](https://comi
 
 ## Stats
 
-- **Total Groups**: 791
-- **Mapped**: 766
-- **Unmapped**: 25
+- **Total Groups**: 793
+- **Mapped**: 767
+- **Unmapped**: 26
 
 ## How to Contribute
 
@@ -251,6 +251,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | GreedScans | [GreedScans](https://comick.dev/group/greed-scans-_XsL) | [https://greedscans.com](https://greedscans.com) |
 | Grodex Tantrums | [Grodex Tantrums](https://comick.dev/group/gr-scans) | [https://mangadex.org/group/157bb6fc-865e-4981-a049-73eca0018c95/grodex-tantrums](https://mangadex.org/group/157bb6fc-865e-4981-a049-73eca0018c95/grodex-tantrums) |
 | Group 01000001 | [Group 01000001](https://comick.dev/group/group-01000001) | [https://mangadex.org/group/8248/group-01000001](https://mangadex.org/group/8248/group-01000001) |
+| group.setName("temp") | [group.setName("temp")](https://comick.dev/group/group-set-name-temp) | [https://groupsetnametemp.vercel.app/](https://groupsetnametemp.vercel.app/) |
 | Hachirumi Translations | [Hachirumi Translations](https://comick.dev/group/hachirumi-scans-k06h3f7b) | [https://hachirumi.com/](https://hachirumi.com/) |
 | Hades Scans | [Hades Scans](https://comick.dev/group/hades-scans-2) | [https://hadesscans.com](https://hadesscans.com) |
 | Haikai Scans | [Haikai Scans](https://comick.dev/group/haikai-scans) | [https://mangadex.org/group/06ea6297-c2e4-4217-ae87-2f6d79c9c680/haikai-scans](https://mangadex.org/group/06ea6297-c2e4-4217-ae87-2f6d79c9c680/haikai-scans) |
@@ -815,6 +816,7 @@ Install the companion userscript to see mapped links directly on comick.dev grou
 | News | [News](https://comick.dev/group/news) | — |
 | no group | [no group](https://comick.dev/group/no-group) | — |
 | Official | [Official](https://comick.dev/group/official) | — |
+| Pancakeluvr & Hayamster | [Pancakeluvr & Hayamster](https://comick.dev/group/pancakeluvr-and-hayamster) | — |
 | Seven Seas Entertainment | [Seven Seas Entertainment](https://comick.dev/group/even-seas-entertainment) | — |
 | Tempat Singgah Scans | [Tempat Singgah Scans](https://comick.dev/group/tempat-singgah-scan) | — |
 | The Koi pond. | [The Koi pond.](https://comick.dev/group/the-koi-pond) | — |
