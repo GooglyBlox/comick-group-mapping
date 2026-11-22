@@ -1180,6 +1180,11 @@
     "url": "https://mangadex.org/group/8248/group-01000001"
   },
   {
+    "title": "group.setName(\"temp\")",
+    "slug": "group-set-name-temp",
+    "url": "https://groupsetnametemp.vercel.app/"
+  },
+  {
     "title": "Hachirumi Translations",
     "slug": "hachirumi-scans-k06h3f7b",
     "url": "https://hachirumi.com/"
@@ -2578,6 +2583,11 @@
     "title": "PAK Scans",
     "slug": "pak-scans",
     "url": "https://mangadex.org/group/f70a75a0-175b-4664-8915-8ddc459e86d6/pak-scans"
+  },
+  {
+    "title": "Pancakeluvr & Hayamster",
+    "slug": "pancakeluvr-and-hayamster",
+    "url": ""
   },
   {
     "title": "Paragon Scans",
